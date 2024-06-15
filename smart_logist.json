@@ -1,0 +1,73 @@
+{
+  "id": 2121,
+  "xmlId": "",
+  "title": "Заявка от отдела продаж СЕМЬЯ-ТЕПЛЫЕ КРАЯ 300 х 30м3",
+  "createdBy": 13,
+  "updatedBy": 19,
+  "movedBy": 19,
+  "createdTime": "2024-05-24T11:02:36+03:00",
+  "updatedTime": "2024-05-24T11:04:16+03:00",
+  "movedTime": "2024-05-24T11:04:16+03:00",
+  "categoryId": 11,
+  "opened": "Y",
+  "stageId": "DT136_11:SUCCESS",
+  "previousStageId": "DT136_11:CLIENT",
+  "begindate": "2024-05-24T03:00:00+03:00",
+  "closedate": "2024-05-24T03:00:00+03:00",
+  "companyId": 4217,
+  "contactId": 0,
+  "opportunity": 174000,
+  "isManualOpportunity": "N",
+  "taxValue": 0,
+  "currencyId": "RUB",
+  "mycompanyId": 2447,
+  "sourceId": "CALL",
+  "sourceDescription": "",
+  "webformId": 0,
+  "ufCrm5_1691762747": [
+    {
+      "id": 79771,
+      "url": "https:\/\/b24-rhwin3.bitrix24.ru\/bitrix\/services\/main\/ajax.php?action=crm.controller.item.getFile&SITE_ID=s1&entityTypeId=136&id=2121&fieldName=UF_CRM_5_1691762747&fileId=79771",
+      "urlMachine": "https:\/\/b24-rhwin3.bitrix24.ru\/rest\/71\/g3cld0zzgu2dv2ki\/crm.controller.item.getFile\/?token=crm%7CYWN0aW9uPWNybS5jb250cm9sbGVyLml0ZW0uZ2V0RmlsZSZTSVRFX0lEPXMxJmVudGl0eVR5cGVJZD0xMzYmaWQ9MjEyMSZmaWVsZE5hbWU9VUZfQ1JNXzVfMTY5MTc2Mjc0NyZmaWxlSWQ9Nzk3NzEmXz16NVFJVnYwMWF3MGhWNEJyT09USFJmZHZwend0N3JJdA%3D%3D%7CImNybS5jb250cm9sbGVyLml0ZW0uZ2V0ZmlsZXxjcm18WVdOMGFXOXVQV055YlM1amIyNTBjbTlzYkdWeUxtbDBaVzB1WjJWMFJtbHNaU1pUU1ZSRlgwbEVQWE14Sm1WdWRHbDBlVlI1Y0dWSlpEMHhNelltYVdROU1qRXlNU1ptYVdWc1pFNWhiV1U5VlVaZlExSk5YelZmTVRZNU1UYzJNamMwTnlabWFXeGxTV1E5TnprM056RW1YejE2TlZGSlZuWXdNV0YzTUdoV05FSnlUMDlVU0ZKbVpIWndlbmQwTjNKSmRBPT18NzF8ZzNjbGQwenpndTJkdjJraSI%3D.Yrr1rD0%2F1TDe7b%2BpPexzpXRW1QgdGmNw3KhtW%2FcWvLo%3D"
+    }
+  ],
+  "ufCrm5_1691762774": 127,
+  "ufCrm5_1691762801": [
+    "ст. Елизаветинская, ЖК Семья-Теплые края"
+  ],
+  "ufCrm5_1691762813": [
+    "2024-05-23T00:00:00+03:00"
+  ],
+  "ufCrm5_1695287612": [
+    "1477"
+  ],
+  "ufCrm5_1695287840325": [],
+  "ufCrm5_1695287856171": [
+    "МАН  М 790 ТС 93"
+  ],
+  "ufCrm5_1695375918259": [
+    "8-900-264-60-32 Валерий"
+  ],
+  "ufCrm5_1695375991470": 201,
+  "ufCrm5_1695376009181": "16800 руб с НДС",
+  "ufCrm5_1695376063512": null,
+  "ufCrm5_1696488268667": [],
+  "ufCrm5_1699342506": 227,
+  "ufCrm5_1700472447": [
+    "315"
+  ],
+  "assignedById": 19,
+  "lastActivityBy": 13,
+  "lastActivityTime": "2024-05-24T11:02:36+03:00",
+  "parentId2": 35595,
+  "utmSource": null,
+  "utmMedium": null,
+  "utmCampaign": null,
+  "utmContent": null,
+  "utmTerm": null,
+  "observers": [
+    13
+  ],
+  "contactIds": [],
+  "entityTypeId": 136
+}

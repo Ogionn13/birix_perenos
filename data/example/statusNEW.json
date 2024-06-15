@@ -1,0 +1,104 @@
+{
+  "total": {
+    "NEW": "Новый заказ",
+    "PREPARATION": "Подготовка документов",
+    "PREPAYMENT_INVOICE": "Согласование док-ов \/Подписание",
+    "EXECUTING": "Cчёт\/Контроль оплаты",
+    "FINAL_INVOICE": "Формирование заказа",
+    "UC_YMRG0L": "Отгрузка товара",
+    "UC_00HXWP": "Контроль УПД",
+    "WON": "Сделка успешна",
+    "LOSE": "Сделка провалена",
+    "APOLOGY": "Анализ причины провала"
+  },
+  "NEW": {
+    "ID": "51",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "NEW",
+    "NAME": "Новый заказ",
+    "NAME_INIT": "Новая",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "0"
+  },
+  "PREPARATION": {
+    "ID": "52",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "PREPARATION",
+    "NAME": "Подготовка документов",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "0"
+  },
+  "PREPAYMENT_INVOICE": {
+    "ID": "53",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "PREPAYMENT_INVOICE",
+    "NAME": "Согласование док-ов \/Подписание",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "0"
+  },
+  "EXECUTING": {
+    "ID": "54",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "EXECUTING",
+    "NAME": "Cчёт\/Контроль оплаты",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "0"
+  },
+  "FINAL_INVOICE": {
+    "ID": "55",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "FINAL_INVOICE",
+    "NAME": "Формирование заказа",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "0"
+  },
+  "UC_YMRG0L": {
+    "ID": "103",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "UC_YMRG0L",
+    "NAME": "Отгрузка товара",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "0"
+  },
+  "UC_00HXWP": {
+    "ID": "104",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "UC_00HXWP",
+    "NAME": "Контроль УПД",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "0"
+  },
+  "WON": {
+    "ID": "56",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "WON",
+    "NAME": "Сделка успешна",
+    "NAME_INIT": "Сделка успешна",
+    "SEMANTICS": "S",
+    "CATEGORY_ID": "0"
+  },
+  "LOSE": {
+    "ID": "57",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "LOSE",
+    "NAME": "Сделка провалена",
+    "NAME_INIT": "Сделка провалена",
+    "SEMANTICS": "F",
+    "CATEGORY_ID": "0"
+  },
+  "APOLOGY": {
+    "ID": "58",
+    "ENTITY_ID": "DEAL_STAGE",
+    "STATUS_ID": "APOLOGY",
+    "NAME": "Анализ причины провала",
+    "NAME_INIT": "",
+    "SEMANTICS": "F",
+    "CATEGORY_ID": "0"
+  }
+}

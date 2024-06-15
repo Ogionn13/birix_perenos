@@ -1,0 +1,148 @@
+{
+  "result": [
+    {
+      "ID": "STATUS",
+      "NAME": "Стадии лида",
+      "SEMANTIC_INFO": {
+        "START_FIELD": "NEW",
+        "FINAL_SUCCESS_FIELD": "CONVERTED",
+        "FINAL_UNSUCCESS_FIELD": "JUNK",
+        "FINAL_SORT": 0
+      },
+      "ENTITY_TYPE_ID": 1
+    },
+    {
+      "ID": "SOURCE",
+      "NAME": "Источники"
+    },
+    {
+      "ID": "CONTACT_TYPE",
+      "NAME": "Тип контакта"
+    },
+    {
+      "ID": "COMPANY_TYPE",
+      "NAME": "Тип компании"
+    },
+    {
+      "ID": "EMPLOYEES",
+      "NAME": "Кол-во сотрудников"
+    },
+    {
+      "ID": "INDUSTRY",
+      "NAME": "Сфера деятельности"
+    },
+    {
+      "ID": "DEAL_TYPE",
+      "NAME": "Тип сделки"
+    },
+    {
+      "ID": "SMART_INVOICE_STAGE_1",
+      "NAME": "Стадии счёта",
+      "SEMANTIC_INFO": [],
+      "PREFIX": "DT31_1",
+      "FIELD_ATTRIBUTE_SCOPE": "category_1",
+      "ENTITY_TYPE_ID": 31,
+      "IS_ENABLED": true,
+      "CATEGORY_ID": 1
+    },
+    {
+      "ID": "DEAL_STAGE",
+      "NAME": "Стадии сделки Продажи",
+      "SEMANTIC_INFO": {
+        "START_FIELD": "NEW",
+        "FINAL_SUCCESS_FIELD": "WON",
+        "FINAL_UNSUCCESS_FIELD": "LOSE",
+        "FINAL_SORT": 0
+      },
+      "FIELD_ATTRIBUTE_SCOPE": "",
+      "ENTITY_TYPE_ID": 2,
+      "CATEGORY_ID": 0
+    },
+    {
+      "ID": "DEAL_STAGE_2",
+      "NAME": "Стадии сделки Продажи КСМК-Регион",
+      "PARENT_ID": "DEAL_STAGE",
+      "SEMANTIC_INFO": {
+        "START_FIELD": "C2:NEW",
+        "FINAL_SUCCESS_FIELD": "C2:WON",
+        "FINAL_UNSUCCESS_FIELD": "C2:LOSE",
+        "FINAL_SORT": 0
+      },
+      "PREFIX": "C2",
+      "FIELD_ATTRIBUTE_SCOPE": "category_2",
+      "ENTITY_TYPE_ID": 2,
+      "CATEGORY_ID": "2"
+    },
+    {
+      "ID": "QUOTE_STATUS",
+      "NAME": "Стадии предложения",
+      "SEMANTIC_INFO": {
+        "START_FIELD": "DRAFT",
+        "FINAL_SUCCESS_FIELD": "APPROVED",
+        "FINAL_UNSUCCESS_FIELD": "DECLAINED",
+        "FINAL_SORT": 0
+      },
+      "ENTITY_TYPE_ID": 7
+    },
+    {
+      "ID": "HONORIFIC",
+      "NAME": "Обращения"
+    },
+    {
+      "ID": "EVENT_TYPE",
+      "NAME": "Тип события"
+    },
+    {
+      "ID": "CALL_LIST",
+      "NAME": "Статусы обзвона"
+    },
+    {
+      "ID": "SMART_DOCUMENT_STAGE_5",
+      "NAME": "Стадии документа",
+      "SEMANTIC_INFO": [],
+      "PREFIX": "DT36_5",
+      "FIELD_ATTRIBUTE_SCOPE": "category_5",
+      "ENTITY_TYPE_ID": 36,
+      "IS_ENABLED": true,
+      "CATEGORY_ID": 5
+    },
+    {
+      "ID": "DYNAMIC_163_STAGE_7",
+      "NAME": "Логистический отдел (Общая)",
+      "SEMANTIC_INFO": [],
+      "PREFIX": "DT163_7",
+      "FIELD_ATTRIBUTE_SCOPE": "category_7",
+      "ENTITY_TYPE_ID": 163,
+      "IS_ENABLED": true,
+      "CATEGORY_ID": 7
+    },
+    {
+      "ID": "DYNAMIC_134_STAGE_8",
+      "NAME": "Юридический отдел (Общая)",
+      "SEMANTIC_INFO": [],
+      "PREFIX": "DT134_8",
+      "FIELD_ATTRIBUTE_SCOPE": "category_8",
+      "ENTITY_TYPE_ID": 134,
+      "IS_ENABLED": true,
+      "CATEGORY_ID": 8
+    },
+    {
+      "ID": "DYNAMIC_171_STAGE_9",
+      "NAME": "Оригиналы документов (Общая)",
+      "SEMANTIC_INFO": [],
+      "PREFIX": "DT171_9",
+      "FIELD_ATTRIBUTE_SCOPE": "category_9",
+      "ENTITY_TYPE_ID": 171,
+      "IS_ENABLED": true,
+      "CATEGORY_ID": 9
+    }
+  ],
+  "time": {
+    "start": 1718190352.542131,
+    "finish": 1718190352.562541,
+    "duration": 0.02041006088256836,
+    "processing": 0.0037360191345214844,
+    "date_start": "2024-06-12T14:05:52+03:00",
+    "date_finish": "2024-06-12T14:05:52+03:00"
+  }
+}

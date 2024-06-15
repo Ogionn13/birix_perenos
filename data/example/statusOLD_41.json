@@ -1,0 +1,104 @@
+{
+  "total": {
+    "C41:NEW": "Новый заказ",
+    "C41:PREPARATION": "Подготовка документов",
+    "C41:UC_XL308D": "Согласование док-ов \/Подписание",
+    "C41:PREPAYMENT_INVOIC": "Cчёт\/Контроль оплаты",
+    "C41:EXECUTING": "Формирование заказа",
+    "C41:UC_PGI18B": "Отгрузка товара",
+    "C41:FINAL_INVOICE": "Контроль УПД",
+    "C41:WON": "Сделка успешна",
+    "C41:LOSE": "Сделка провалена",
+    "C41:APOLOGY": "Анализ причины провала"
+  },
+  "C41:NEW": {
+    "ID": "659",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:NEW",
+    "NAME": "Новый заказ",
+    "NAME_INIT": "Новая",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "41"
+  },
+  "C41:PREPARATION": {
+    "ID": "661",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:PREPARATION",
+    "NAME": "Подготовка документов",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "41"
+  },
+  "C41:UC_XL308D": {
+    "ID": "675",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:UC_XL308D",
+    "NAME": "Согласование док-ов \/Подписание",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "41"
+  },
+  "C41:PREPAYMENT_INVOIC": {
+    "ID": "663",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:PREPAYMENT_INVOIC",
+    "NAME": "Cчёт\/Контроль оплаты",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "41"
+  },
+  "C41:EXECUTING": {
+    "ID": "665",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:EXECUTING",
+    "NAME": "Формирование заказа",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "41"
+  },
+  "C41:UC_PGI18B": {
+    "ID": "679",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:UC_PGI18B",
+    "NAME": "Отгрузка товара",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "41"
+  },
+  "C41:FINAL_INVOICE": {
+    "ID": "667",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:FINAL_INVOICE",
+    "NAME": "Контроль УПД",
+    "NAME_INIT": "",
+    "SEMANTICS": null,
+    "CATEGORY_ID": "41"
+  },
+  "C41:WON": {
+    "ID": "669",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:WON",
+    "NAME": "Сделка успешна",
+    "NAME_INIT": "Сделка успешна",
+    "SEMANTICS": "S",
+    "CATEGORY_ID": "41"
+  },
+  "C41:LOSE": {
+    "ID": "671",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:LOSE",
+    "NAME": "Сделка провалена",
+    "NAME_INIT": "Сделка провалена",
+    "SEMANTICS": "F",
+    "CATEGORY_ID": "41"
+  },
+  "C41:APOLOGY": {
+    "ID": "673",
+    "ENTITY_ID": "DEAL_STAGE_41",
+    "STATUS_ID": "C41:APOLOGY",
+    "NAME": "Анализ причины провала",
+    "NAME_INIT": "",
+    "SEMANTICS": "F",
+    "CATEGORY_ID": "41"
+  }
+}

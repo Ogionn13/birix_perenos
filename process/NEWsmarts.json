@@ -1,0 +1,4987 @@
+{
+  "2121": {
+    "dealOld": 35595,
+    "dealNew": "78049",
+    "newsmartID": 100
+  },
+  "2119": {
+    "dealOld": 35593,
+    "dealNew": "78050",
+    "newsmartID": 101
+  },
+  "2117": {
+    "dealOld": 35589,
+    "dealNew": "78051",
+    "newsmartID": 102
+  },
+  "2115": {
+    "dealOld": 35585,
+    "dealNew": "78052",
+    "newsmartID": 103
+  },
+  "2113": {
+    "dealOld": 35581,
+    "dealNew": "78053",
+    "newsmartID": 104
+  },
+  "2111": {
+    "dealOld": 35579,
+    "dealNew": "78054",
+    "newsmartID": 105
+  },
+  "2109": {
+    "dealOld": 35575,
+    "dealNew": "78055",
+    "newsmartID": 106
+  },
+  "2107": {
+    "dealOld": 35573,
+    "dealNew": "78056",
+    "newsmartID": 107
+  },
+  "2105": {
+    "dealOld": 35565,
+    "dealNew": "78057",
+    "newsmartID": 108
+  },
+  "2103": {
+    "dealOld": 35561,
+    "dealNew": "78058",
+    "newsmartID": 109
+  },
+  "2093": {
+    "dealOld": 35469,
+    "dealNew": "78423",
+    "newsmartID": 110
+  },
+  "2091": {
+    "dealOld": 35465,
+    "dealNew": "78424",
+    "newsmartID": 111
+  },
+  "2089": {
+    "dealOld": 35461,
+    "dealNew": "78425",
+    "newsmartID": 112
+  },
+  "2087": {
+    "dealOld": 35451,
+    "dealNew": "78427",
+    "newsmartID": 113
+  },
+  "2085": {
+    "dealOld": 35445,
+    "dealNew": "78428",
+    "newsmartID": 114
+  },
+  "2083": {
+    "dealOld": 35441,
+    "dealNew": "78429",
+    "newsmartID": 115
+  },
+  "2081": {
+    "dealOld": 35439,
+    "dealNew": "78430",
+    "newsmartID": 116
+  },
+  "2079": {
+    "dealOld": 35437,
+    "dealNew": "78431",
+    "newsmartID": 117
+  },
+  "2077": {
+    "dealOld": 35417,
+    "dealNew": "78432",
+    "newsmartID": 118
+  },
+  "2075": {
+    "dealOld": 35415,
+    "dealNew": "78433",
+    "newsmartID": 119
+  },
+  "2073": {
+    "dealOld": 35413,
+    "dealNew": "78434",
+    "newsmartID": 120
+  },
+  "2071": {
+    "dealOld": 35411,
+    "dealNew": "78435",
+    "newsmartID": 121
+  },
+  "2069": {
+    "dealOld": 35409,
+    "dealNew": "78436",
+    "newsmartID": 122
+  },
+  "2067": {
+    "dealOld": 35407,
+    "dealNew": "78437",
+    "newsmartID": 123
+  },
+  "2065": {
+    "dealOld": 35405,
+    "dealNew": "78438",
+    "newsmartID": 124
+  },
+  "2063": {
+    "dealOld": 35403,
+    "dealNew": "78439",
+    "newsmartID": 125
+  },
+  "2061": {
+    "dealOld": 35399,
+    "dealNew": "78441",
+    "newsmartID": 126
+  },
+  "2059": {
+    "dealOld": 35397,
+    "dealNew": "78442",
+    "newsmartID": 127
+  },
+  "2057": {
+    "dealOld": 35397,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "2055": {
+    "dealOld": 35395,
+    "dealNew": "78443",
+    "newsmartID": 128
+  },
+  "2053": {
+    "dealOld": 35393,
+    "dealNew": "78444",
+    "newsmartID": 129
+  },
+  "2051": {
+    "dealOld": 35391,
+    "dealNew": "78445",
+    "newsmartID": 130
+  },
+  "2049": {
+    "dealOld": 35389,
+    "dealNew": "78446",
+    "newsmartID": 131
+  },
+  "2047": {
+    "dealOld": 35343,
+    "dealNew": "78448",
+    "newsmartID": 132
+  },
+  "2045": {
+    "dealOld": 34693,
+    "dealNew": "78600",
+    "newsmartID": 133
+  },
+  "2043": {
+    "dealOld": 34685,
+    "dealNew": "78604",
+    "newsmartID": 134
+  },
+  "2041": {
+    "dealOld": 35269,
+    "dealNew": "78469",
+    "newsmartID": 135
+  },
+  "2039": {
+    "dealOld": 35267,
+    "dealNew": "78470",
+    "newsmartID": 136
+  },
+  "2037": {
+    "dealOld": 35263,
+    "dealNew": "78472",
+    "newsmartID": 137
+  },
+  "2035": {
+    "dealOld": 35261,
+    "dealNew": "78473",
+    "newsmartID": 138
+  },
+  "2033": {
+    "dealOld": 35259,
+    "dealNew": "78474",
+    "newsmartID": 139
+  },
+  "2031": {
+    "dealOld": 35255,
+    "dealNew": "78476",
+    "newsmartID": 140
+  },
+  "2029": {
+    "dealOld": 35247,
+    "dealNew": "78478",
+    "newsmartID": 141
+  },
+  "2027": {
+    "dealOld": 35245,
+    "dealNew": "78479",
+    "newsmartID": 142
+  },
+  "2025": {
+    "dealOld": 35241,
+    "dealNew": "78480",
+    "newsmartID": 143
+  },
+  "2023": {
+    "dealOld": 35239,
+    "dealNew": "78481",
+    "newsmartID": 144
+  },
+  "2021": {
+    "dealOld": 35231,
+    "dealNew": "78483",
+    "newsmartID": 145
+  },
+  "2019": {
+    "dealOld": 26849,
+    "dealNew": "80485",
+    "newsmartID": 146
+  },
+  "2017": {
+    "dealOld": 35107,
+    "dealNew": "78507",
+    "newsmartID": 147
+  },
+  "2015": {
+    "dealOld": 35105,
+    "dealNew": "78508",
+    "newsmartID": 148
+  },
+  "2013": {
+    "dealOld": 35101,
+    "dealNew": "78510",
+    "newsmartID": 149
+  },
+  "2011": {
+    "dealOld": 35097,
+    "dealNew": "78512",
+    "newsmartID": 150
+  },
+  "2009": {
+    "dealOld": 35093,
+    "dealNew": "78514",
+    "newsmartID": 151
+  },
+  "2007": {
+    "dealOld": 35091,
+    "dealNew": "78515",
+    "newsmartID": 152
+  },
+  "2005": {
+    "dealOld": 35089,
+    "dealNew": "78516",
+    "newsmartID": 153
+  },
+  "2003": {
+    "dealOld": 35087,
+    "dealNew": "78517",
+    "newsmartID": 154
+  },
+  "2001": {
+    "dealOld": 35085,
+    "dealNew": "78518",
+    "newsmartID": 155
+  },
+  "1999": {
+    "dealOld": 35081,
+    "dealNew": "78519",
+    "newsmartID": 156
+  },
+  "1997": {
+    "dealOld": 35079,
+    "dealNew": "78520",
+    "newsmartID": 157
+  },
+  "1995": {
+    "dealOld": 35077,
+    "dealNew": "78521",
+    "newsmartID": 158
+  },
+  "1993": {
+    "dealOld": 35075,
+    "dealNew": "78522",
+    "newsmartID": 159
+  },
+  "1991": {
+    "dealOld": 35071,
+    "dealNew": "78524",
+    "newsmartID": 160
+  },
+  "1989": {
+    "dealOld": 35067,
+    "dealNew": "78525",
+    "newsmartID": 161
+  },
+  "1987": {
+    "dealOld": 35061,
+    "dealNew": "78527",
+    "newsmartID": 162
+  },
+  "1985": {
+    "dealOld": 35057,
+    "dealNew": "78528",
+    "newsmartID": 163
+  },
+  "1983": {
+    "dealOld": 35049,
+    "dealNew": "78531",
+    "newsmartID": 164
+  },
+  "1981": {
+    "dealOld": 35045,
+    "dealNew": "78533",
+    "newsmartID": 165
+  },
+  "1979": {
+    "dealOld": 35035,
+    "dealNew": "78535",
+    "newsmartID": 166
+  },
+  "1977": {
+    "dealOld": 35029,
+    "dealNew": "78537",
+    "newsmartID": 167
+  },
+  "1975": {
+    "dealOld": 35017,
+    "dealNew": "78542",
+    "newsmartID": 168
+  },
+  "1973": {
+    "dealOld": 34837,
+    "dealNew": "78550",
+    "newsmartID": 169
+  },
+  "1971": {
+    "dealOld": 34835,
+    "dealNew": "78551",
+    "newsmartID": 170
+  },
+  "1969": {
+    "dealOld": 34833,
+    "dealNew": "78552",
+    "newsmartID": 171
+  },
+  "1967": {
+    "dealOld": 34831,
+    "dealNew": "78553",
+    "newsmartID": 172
+  },
+  "1965": {
+    "dealOld": 34829,
+    "dealNew": "78554",
+    "newsmartID": 173
+  },
+  "1963": {
+    "dealOld": 34813,
+    "dealNew": "78561",
+    "newsmartID": 174
+  },
+  "1961": {
+    "dealOld": 34811,
+    "dealNew": "78562",
+    "newsmartID": 175
+  },
+  "1959": {
+    "dealOld": 34809,
+    "dealNew": "78563",
+    "newsmartID": 176
+  },
+  "1957": {
+    "dealOld": 34807,
+    "dealNew": "78564",
+    "newsmartID": 177
+  },
+  "1955": {
+    "dealOld": 34805,
+    "dealNew": "78565",
+    "newsmartID": 178
+  },
+  "1953": {
+    "dealOld": 34803,
+    "dealNew": "78566",
+    "newsmartID": 179
+  },
+  "1951": {
+    "dealOld": 34783,
+    "dealNew": "78567",
+    "newsmartID": 180
+  },
+  "1949": {
+    "dealOld": 34781,
+    "dealNew": "78568",
+    "newsmartID": 181
+  },
+  "1947": {
+    "dealOld": 34779,
+    "dealNew": "78569",
+    "newsmartID": 182
+  },
+  "1945": {
+    "dealOld": 34777,
+    "dealNew": "78570",
+    "newsmartID": 183
+  },
+  "1943": {
+    "dealOld": 34775,
+    "dealNew": "78571",
+    "newsmartID": 184
+  },
+  "1941": {
+    "dealOld": 34773,
+    "dealNew": "78572",
+    "newsmartID": 185
+  },
+  "1939": {
+    "dealOld": 34717,
+    "dealNew": "78591",
+    "newsmartID": 186
+  },
+  "1937": {
+    "dealOld": 34713,
+    "dealNew": "78593",
+    "newsmartID": 187
+  },
+  "1935": {
+    "dealOld": 34711,
+    "dealNew": "78594",
+    "newsmartID": 188
+  },
+  "1933": {
+    "dealOld": 34709,
+    "dealNew": "78595",
+    "newsmartID": 189
+  },
+  "1931": {
+    "dealOld": 34707,
+    "dealNew": "78596",
+    "newsmartID": 190
+  },
+  "1929": {
+    "dealOld": 34705,
+    "dealNew": "78597",
+    "newsmartID": 191
+  },
+  "1927": {
+    "dealOld": 34703,
+    "dealNew": "78598",
+    "newsmartID": 192
+  },
+  "1925": {
+    "dealOld": 34681,
+    "dealNew": "78606",
+    "newsmartID": 193
+  },
+  "1923": {
+    "dealOld": 34689,
+    "dealNew": "78602",
+    "newsmartID": 194
+  },
+  "1921": {
+    "dealOld": 34687,
+    "dealNew": "78603",
+    "newsmartID": 195
+  },
+  "1919": {
+    "dealOld": 34629,
+    "dealNew": "78626",
+    "newsmartID": 196
+  },
+  "1917": {
+    "dealOld": 34627,
+    "dealNew": "78627",
+    "newsmartID": 197
+  },
+  "1915": {
+    "dealOld": 34625,
+    "dealNew": "78628",
+    "newsmartID": 198
+  },
+  "1913": {
+    "dealOld": 34623,
+    "dealNew": "78629",
+    "newsmartID": 199
+  },
+  "1911": {
+    "dealOld": 34621,
+    "dealNew": "78630",
+    "newsmartID": 200
+  },
+  "1909": {
+    "dealOld": 34619,
+    "dealNew": "78631",
+    "newsmartID": 201
+  },
+  "1907": {
+    "dealOld": 34615,
+    "dealNew": "78633",
+    "newsmartID": 202
+  },
+  "1905": {
+    "dealOld": 34611,
+    "dealNew": "78634",
+    "newsmartID": 203
+  },
+  "1903": {
+    "dealOld": 34609,
+    "dealNew": "78635",
+    "newsmartID": 204
+  },
+  "1901": {
+    "dealOld": 34605,
+    "dealNew": "78636",
+    "newsmartID": 205
+  },
+  "1899": {
+    "dealOld": 34601,
+    "dealNew": "78637",
+    "newsmartID": 206
+  },
+  "1897": {
+    "dealOld": 34595,
+    "dealNew": "78639",
+    "newsmartID": 207
+  },
+  "1895": {
+    "dealOld": 34589,
+    "dealNew": "78640",
+    "newsmartID": 208
+  },
+  "1893": {
+    "dealOld": 34587,
+    "dealNew": "78641",
+    "newsmartID": 209
+  },
+  "1891": {
+    "dealOld": 34583,
+    "dealNew": "78642",
+    "newsmartID": 210
+  },
+  "1889": {
+    "dealOld": 34577,
+    "dealNew": "78644",
+    "newsmartID": 211
+  },
+  "1887": {
+    "dealOld": 34573,
+    "dealNew": "78645",
+    "newsmartID": 212
+  },
+  "1885": {
+    "dealOld": 34565,
+    "dealNew": "78647",
+    "newsmartID": 213
+  },
+  "1883": {
+    "dealOld": 34563,
+    "dealNew": "78648",
+    "newsmartID": 214
+  },
+  "1881": {
+    "dealOld": 34559,
+    "dealNew": "78649",
+    "newsmartID": 215
+  },
+  "1879": {
+    "dealOld": 34557,
+    "dealNew": "78650",
+    "newsmartID": 216
+  },
+  "1877": {
+    "dealOld": 34555,
+    "dealNew": "78651",
+    "newsmartID": 217
+  },
+  "1875": {
+    "dealOld": 34551,
+    "dealNew": "78652",
+    "newsmartID": 218
+  },
+  "1873": {
+    "dealOld": 34549,
+    "dealNew": "78653",
+    "newsmartID": 219
+  },
+  "1871": {
+    "dealOld": 34545,
+    "dealNew": "78654",
+    "newsmartID": 220
+  },
+  "1869": {
+    "dealOld": 34537,
+    "dealNew": "78655",
+    "newsmartID": 221
+  },
+  "1867": {
+    "dealOld": 34535,
+    "dealNew": "78656",
+    "newsmartID": 222
+  },
+  "1865": {
+    "dealOld": 34533,
+    "dealNew": "78657",
+    "newsmartID": 223
+  },
+  "1863": {
+    "dealOld": 34521,
+    "dealNew": "78658",
+    "newsmartID": 224
+  },
+  "1861": {
+    "dealOld": 34519,
+    "dealNew": "78659",
+    "newsmartID": 225
+  },
+  "1859": {
+    "dealOld": 34279,
+    "dealNew": "78707",
+    "newsmartID": 226
+  },
+  "1857": {
+    "dealOld": 34277,
+    "dealNew": "78708",
+    "newsmartID": 227
+  },
+  "1855": {
+    "dealOld": 34275,
+    "dealNew": "78709",
+    "newsmartID": 228
+  },
+  "1853": {
+    "dealOld": 34273,
+    "dealNew": "78710",
+    "newsmartID": 229
+  },
+  "1851": {
+    "dealOld": 34271,
+    "dealNew": "78711",
+    "newsmartID": 230
+  },
+  "1849": {
+    "dealOld": 34269,
+    "dealNew": "78712",
+    "newsmartID": 231
+  },
+  "1847": {
+    "dealOld": 34267,
+    "dealNew": "78713",
+    "newsmartID": 232
+  },
+  "1845": {
+    "dealOld": 34265,
+    "dealNew": "78714",
+    "newsmartID": 233
+  },
+  "1843": {
+    "dealOld": 34263,
+    "dealNew": "78715",
+    "newsmartID": 234
+  },
+  "1841": {
+    "dealOld": 34261,
+    "dealNew": "78716",
+    "newsmartID": 235
+  },
+  "1833": {
+    "dealOld": 34207,
+    "dealNew": "78722",
+    "newsmartID": 236
+  },
+  "1831": {
+    "dealOld": 34167,
+    "dealNew": "78723",
+    "newsmartID": 237
+  },
+  "1829": {
+    "dealOld": 34165,
+    "dealNew": "78724",
+    "newsmartID": 238
+  },
+  "1827": {
+    "dealOld": 34135,
+    "dealNew": "78739",
+    "newsmartID": 239
+  },
+  "1825": {
+    "dealOld": 34133,
+    "dealNew": "78740",
+    "newsmartID": 240
+  },
+  "1823": {
+    "dealOld": 34131,
+    "dealNew": "78741",
+    "newsmartID": 241
+  },
+  "1821": {
+    "dealOld": 34129,
+    "dealNew": "78742",
+    "newsmartID": 242
+  },
+  "1819": {
+    "dealOld": 34127,
+    "dealNew": "78743",
+    "newsmartID": 243
+  },
+  "1817": {
+    "dealOld": 34125,
+    "dealNew": "78744",
+    "newsmartID": 244
+  },
+  "1815": {
+    "dealOld": 34123,
+    "dealNew": "78745",
+    "newsmartID": 245
+  },
+  "1813": {
+    "dealOld": 34121,
+    "dealNew": "78746",
+    "newsmartID": 246
+  },
+  "1811": {
+    "dealOld": 34119,
+    "dealNew": "78747",
+    "newsmartID": 247
+  },
+  "1809": {
+    "dealOld": 34117,
+    "dealNew": "78748",
+    "newsmartID": 248
+  },
+  "1807": {
+    "dealOld": 34115,
+    "dealNew": "78749",
+    "newsmartID": 249
+  },
+  "1805": {
+    "dealOld": 34113,
+    "dealNew": "78750",
+    "newsmartID": 250
+  },
+  "1803": {
+    "dealOld": 34001,
+    "dealNew": "78796",
+    "newsmartID": 251
+  },
+  "1801": {
+    "dealOld": 33999,
+    "dealNew": "78797",
+    "newsmartID": 252
+  },
+  "1799": {
+    "dealOld": 33997,
+    "dealNew": "78798",
+    "newsmartID": 253
+  },
+  "1797": {
+    "dealOld": 33995,
+    "dealNew": "78799",
+    "newsmartID": 254
+  },
+  "1795": {
+    "dealOld": 33991,
+    "dealNew": "78801",
+    "newsmartID": 255
+  },
+  "1793": {
+    "dealOld": 33989,
+    "dealNew": "78802",
+    "newsmartID": 256
+  },
+  "1791": {
+    "dealOld": 33987,
+    "dealNew": "78803",
+    "newsmartID": 257
+  },
+  "1789": {
+    "dealOld": 33981,
+    "dealNew": "78804",
+    "newsmartID": 258
+  },
+  "1787": {
+    "dealOld": 33979,
+    "dealNew": "78805",
+    "newsmartID": 259
+  },
+  "1785": {
+    "dealOld": 33977,
+    "dealNew": "78806",
+    "newsmartID": 260
+  },
+  "1783": {
+    "dealOld": 33975,
+    "dealNew": "78807",
+    "newsmartID": 261
+  },
+  "1781": {
+    "dealOld": 33973,
+    "dealNew": "78808",
+    "newsmartID": 262
+  },
+  "1779": {
+    "dealOld": 33967,
+    "dealNew": "78810",
+    "newsmartID": 263
+  },
+  "1777": {
+    "dealOld": 33963,
+    "dealNew": "78811",
+    "newsmartID": 264
+  },
+  "1775": {
+    "dealOld": 33959,
+    "dealNew": "78812",
+    "newsmartID": 265
+  },
+  "1773": {
+    "dealOld": 33953,
+    "dealNew": "78814",
+    "newsmartID": 266
+  },
+  "1771": {
+    "dealOld": 33951,
+    "dealNew": "78815",
+    "newsmartID": 267
+  },
+  "1769": {
+    "dealOld": 33949,
+    "dealNew": "78816",
+    "newsmartID": 268
+  },
+  "1767": {
+    "dealOld": 33947,
+    "dealNew": "78817",
+    "newsmartID": 269
+  },
+  "1765": {
+    "dealOld": 33945,
+    "dealNew": "78818",
+    "newsmartID": 270
+  },
+  "1763": {
+    "dealOld": 33941,
+    "dealNew": "78819",
+    "newsmartID": 271
+  },
+  "1761": {
+    "dealOld": 33937,
+    "dealNew": "78820",
+    "newsmartID": 272
+  },
+  "1759": {
+    "dealOld": 33935,
+    "dealNew": "78821",
+    "newsmartID": 273
+  },
+  "1757": {
+    "dealOld": 33929,
+    "dealNew": "78822",
+    "newsmartID": 274
+  },
+  "1755": {
+    "dealOld": 33921,
+    "dealNew": "78823",
+    "newsmartID": 275
+  },
+  "1753": {
+    "dealOld": 33915,
+    "dealNew": "78824",
+    "newsmartID": 276
+  },
+  "1751": {
+    "dealOld": 33913,
+    "dealNew": "78825",
+    "newsmartID": 277
+  },
+  "1749": {
+    "dealOld": 33907,
+    "dealNew": "78827",
+    "newsmartID": 278
+  },
+  "1747": {
+    "dealOld": 33901,
+    "dealNew": "78828",
+    "newsmartID": 279
+  },
+  "1745": {
+    "dealOld": 33893,
+    "dealNew": "78830",
+    "newsmartID": 280
+  },
+  "1743": {
+    "dealOld": 33891,
+    "dealNew": "78831",
+    "newsmartID": 281
+  },
+  "1741": {
+    "dealOld": 33733,
+    "dealNew": "78851",
+    "newsmartID": 282
+  },
+  "1739": {
+    "dealOld": 33731,
+    "dealNew": "78852",
+    "newsmartID": 283
+  },
+  "1737": {
+    "dealOld": 33729,
+    "dealNew": "78853",
+    "newsmartID": 284
+  },
+  "1735": {
+    "dealOld": 33727,
+    "dealNew": "78854",
+    "newsmartID": 285
+  },
+  "1733": {
+    "dealOld": 33725,
+    "dealNew": "78855",
+    "newsmartID": 286
+  },
+  "1731": {
+    "dealOld": 33723,
+    "dealNew": "78856",
+    "newsmartID": 287
+  },
+  "1729": {
+    "dealOld": 33721,
+    "dealNew": "78857",
+    "newsmartID": 288
+  },
+  "1727": {
+    "dealOld": 33719,
+    "dealNew": "78858",
+    "newsmartID": 289
+  },
+  "1725": {
+    "dealOld": 33717,
+    "dealNew": "78859",
+    "newsmartID": 290
+  },
+  "1723": {
+    "dealOld": 33713,
+    "dealNew": "78861",
+    "newsmartID": 291
+  },
+  "1721": {
+    "dealOld": 33711,
+    "dealNew": "78862",
+    "newsmartID": 292
+  },
+  "1719": {
+    "dealOld": 33709,
+    "dealNew": "78863",
+    "newsmartID": 293
+  },
+  "1717": {
+    "dealOld": 33707,
+    "dealNew": "78864",
+    "newsmartID": 294
+  },
+  "1715": {
+    "dealOld": 33635,
+    "dealNew": "78866",
+    "newsmartID": 295
+  },
+  "1713": {
+    "dealOld": 33629,
+    "dealNew": "78869",
+    "newsmartID": 296
+  },
+  "1711": {
+    "dealOld": 33275,
+    "dealNew": "78959",
+    "newsmartID": 297
+  },
+  "1709": {
+    "dealOld": 33311,
+    "dealNew": "78951",
+    "newsmartID": 298
+  },
+  "1707": {
+    "dealOld": 33105,
+    "dealNew": "78988",
+    "newsmartID": 299
+  },
+  "1705": {
+    "dealOld": 33247,
+    "dealNew": "78960",
+    "newsmartID": 300
+  },
+  "1703": {
+    "dealOld": 33245,
+    "dealNew": "78961",
+    "newsmartID": 301
+  },
+  "1701": {
+    "dealOld": 31105,
+    "dealNew": "79441",
+    "newsmartID": 302
+  },
+  "1699": {
+    "dealOld": 33243,
+    "dealNew": "78962",
+    "newsmartID": 303
+  },
+  "1697": {
+    "dealOld": 33241,
+    "dealNew": "78963",
+    "newsmartID": 304
+  },
+  "1695": {
+    "dealOld": 33239,
+    "dealNew": "78964",
+    "newsmartID": 305
+  },
+  "1693": {
+    "dealOld": 33237,
+    "dealNew": "78965",
+    "newsmartID": 306
+  },
+  "1691": {
+    "dealOld": 33231,
+    "dealNew": "78968",
+    "newsmartID": 307
+  },
+  "1689": {
+    "dealOld": 33229,
+    "dealNew": "78969",
+    "newsmartID": 308
+  },
+  "1687": {
+    "dealOld": 33227,
+    "dealNew": "78970",
+    "newsmartID": 309
+  },
+  "1685": {
+    "dealOld": 33225,
+    "dealNew": "78971",
+    "newsmartID": 310
+  },
+  "1683": {
+    "dealOld": 33127,
+    "dealNew": "78977",
+    "newsmartID": 311
+  },
+  "1681": {
+    "dealOld": 33099,
+    "dealNew": "78991",
+    "newsmartID": 312
+  },
+  "1679": {
+    "dealOld": 25445,
+    "dealNew": "80861",
+    "newsmartID": 313
+  },
+  "1677": {
+    "dealOld": 33097,
+    "dealNew": "78992",
+    "newsmartID": 314
+  },
+  "1675": {
+    "dealOld": 33095,
+    "dealNew": "78993",
+    "newsmartID": 315
+  },
+  "1673": {
+    "dealOld": 33093,
+    "dealNew": "78994",
+    "newsmartID": 316
+  },
+  "1671": {
+    "dealOld": 33091,
+    "dealNew": "78995",
+    "newsmartID": 317
+  },
+  "1669": {
+    "dealOld": 33089,
+    "dealNew": "78996",
+    "newsmartID": 318
+  },
+  "1667": {
+    "dealOld": 33087,
+    "dealNew": "78997",
+    "newsmartID": 319
+  },
+  "1665": {
+    "dealOld": 33085,
+    "dealNew": "78998",
+    "newsmartID": 320
+  },
+  "1663": {
+    "dealOld": 33083,
+    "dealNew": "78999",
+    "newsmartID": 321
+  },
+  "1661": {
+    "dealOld": 32951,
+    "dealNew": "79029",
+    "newsmartID": 322
+  },
+  "1659": {
+    "dealOld": 32949,
+    "dealNew": "79030",
+    "newsmartID": 323
+  },
+  "1657": {
+    "dealOld": 32947,
+    "dealNew": "79031",
+    "newsmartID": 324
+  },
+  "1655": {
+    "dealOld": 32945,
+    "dealNew": "79032",
+    "newsmartID": 325
+  },
+  "1653": {
+    "dealOld": 32941,
+    "dealNew": "79034",
+    "newsmartID": 326
+  },
+  "1651": {
+    "dealOld": 32895,
+    "dealNew": "79043",
+    "newsmartID": 327
+  },
+  "1649": {
+    "dealOld": 32889,
+    "dealNew": "79044",
+    "newsmartID": 328
+  },
+  "1647": {
+    "dealOld": 32887,
+    "dealNew": "79045",
+    "newsmartID": 329
+  },
+  "1645": {
+    "dealOld": 32883,
+    "dealNew": "79046",
+    "newsmartID": 330
+  },
+  "1643": {
+    "dealOld": 32875,
+    "dealNew": "79048",
+    "newsmartID": 331
+  },
+  "1641": {
+    "dealOld": 32865,
+    "dealNew": "79049",
+    "newsmartID": 332
+  },
+  "1639": {
+    "dealOld": 32863,
+    "dealNew": "79050",
+    "newsmartID": 333
+  },
+  "1637": {
+    "dealOld": 32861,
+    "dealNew": "79051",
+    "newsmartID": 334
+  },
+  "1635": {
+    "dealOld": 32859,
+    "dealNew": "79052",
+    "newsmartID": 335
+  },
+  "1633": {
+    "dealOld": 32855,
+    "dealNew": "79054",
+    "newsmartID": 336
+  },
+  "1631": {
+    "dealOld": 32037,
+    "dealNew": "79228",
+    "newsmartID": 337
+  },
+  "1629": {
+    "dealOld": 32039,
+    "dealNew": "79227",
+    "newsmartID": 338
+  },
+  "1627": {
+    "dealOld": 32657,
+    "dealNew": "79117",
+    "newsmartID": 339
+  },
+  "1625": {
+    "dealOld": 32651,
+    "dealNew": "79118",
+    "newsmartID": 340
+  },
+  "1623": {
+    "dealOld": 32639,
+    "dealNew": "79120",
+    "newsmartID": 341
+  },
+  "1621": {
+    "dealOld": 32631,
+    "dealNew": "79122",
+    "newsmartID": 342
+  },
+  "1619": {
+    "dealOld": 32629,
+    "dealNew": "79123",
+    "newsmartID": 343
+  },
+  "1617": {
+    "dealOld": 32627,
+    "dealNew": "79124",
+    "newsmartID": 344
+  },
+  "1615": {
+    "dealOld": 32625,
+    "dealNew": "79125",
+    "newsmartID": 345
+  },
+  "1613": {
+    "dealOld": 32623,
+    "dealNew": "79126",
+    "newsmartID": 346
+  },
+  "1611": {
+    "dealOld": 32621,
+    "dealNew": "79127",
+    "newsmartID": 347
+  },
+  "1609": {
+    "dealOld": 32619,
+    "dealNew": "79128",
+    "newsmartID": 348
+  },
+  "1607": {
+    "dealOld": 32617,
+    "dealNew": "79129",
+    "newsmartID": 349
+  },
+  "1605": {
+    "dealOld": 32613,
+    "dealNew": "79130",
+    "newsmartID": 350
+  },
+  "1603": {
+    "dealOld": 32611,
+    "dealNew": "79131",
+    "newsmartID": 351
+  },
+  "1601": {
+    "dealOld": 32599,
+    "dealNew": "79134",
+    "newsmartID": 352
+  },
+  "1599": {
+    "dealOld": 32595,
+    "dealNew": "79135",
+    "newsmartID": 353
+  },
+  "1597": {
+    "dealOld": 32591,
+    "dealNew": "79136",
+    "newsmartID": 354
+  },
+  "1595": {
+    "dealOld": 32589,
+    "dealNew": "79137",
+    "newsmartID": 355
+  },
+  "1593": {
+    "dealOld": 32585,
+    "dealNew": "79138",
+    "newsmartID": 356
+  },
+  "1591": {
+    "dealOld": 28995,
+    "dealNew": "79971",
+    "newsmartID": 357
+  },
+  "1589": {
+    "dealOld": 32135,
+    "dealNew": "79198",
+    "newsmartID": 358
+  },
+  "1587": {
+    "dealOld": 32421,
+    "dealNew": "79180",
+    "newsmartID": 359
+  },
+  "1585": {
+    "dealOld": 32419,
+    "dealNew": "79181",
+    "newsmartID": 360
+  },
+  "1583": {
+    "dealOld": 32403,
+    "dealNew": "79182",
+    "newsmartID": 361
+  },
+  "1581": {
+    "dealOld": 32387,
+    "dealNew": "79183",
+    "newsmartID": 362
+  },
+  "1579": {
+    "dealOld": 32379,
+    "dealNew": "79184",
+    "newsmartID": 363
+  },
+  "1577": {
+    "dealOld": 32365,
+    "dealNew": "79185",
+    "newsmartID": 364
+  },
+  "1575": {
+    "dealOld": 32361,
+    "dealNew": "79186",
+    "newsmartID": 365
+  },
+  "1573": {
+    "dealOld": 32359,
+    "dealNew": "79187",
+    "newsmartID": 366
+  },
+  "1571": {
+    "dealOld": 32357,
+    "dealNew": "79188",
+    "newsmartID": 367
+  },
+  "1569": {
+    "dealOld": 32355,
+    "dealNew": "79189",
+    "newsmartID": 368
+  },
+  "1567": {
+    "dealOld": 32353,
+    "dealNew": "79190",
+    "newsmartID": 369
+  },
+  "1565": {
+    "dealOld": 32351,
+    "dealNew": "79191",
+    "newsmartID": 370
+  },
+  "1563": {
+    "dealOld": 32349,
+    "dealNew": "79192",
+    "newsmartID": 371
+  },
+  "1561": {
+    "dealOld": 32345,
+    "dealNew": "79194",
+    "newsmartID": 372
+  },
+  "1559": {
+    "dealOld": 32343,
+    "dealNew": "79195",
+    "newsmartID": 373
+  },
+  "1557": {
+    "dealOld": 32341,
+    "dealNew": "79196",
+    "newsmartID": 374
+  },
+  "1555": {
+    "dealOld": 32047,
+    "dealNew": "79226",
+    "newsmartID": 375
+  },
+  "1553": {
+    "dealOld": 32105,
+    "dealNew": "79209",
+    "newsmartID": 376
+  },
+  "1551": {
+    "dealOld": 32103,
+    "dealNew": "79210",
+    "newsmartID": 377
+  },
+  "1549": {
+    "dealOld": 32101,
+    "dealNew": "79211",
+    "newsmartID": 378
+  },
+  "1547": {
+    "dealOld": 30453,
+    "dealNew": "79610",
+    "newsmartID": 379
+  },
+  "1545": {
+    "dealOld": 32099,
+    "dealNew": "79212",
+    "newsmartID": 380
+  },
+  "1543": {
+    "dealOld": 32097,
+    "dealNew": "79213",
+    "newsmartID": 381
+  },
+  "1541": {
+    "dealOld": 32095,
+    "dealNew": "79214",
+    "newsmartID": 382
+  },
+  "1539": {
+    "dealOld": 32093,
+    "dealNew": "79215",
+    "newsmartID": 383
+  },
+  "1537": {
+    "dealOld": 32087,
+    "dealNew": "79218",
+    "newsmartID": 384
+  },
+  "1535": {
+    "dealOld": 32085,
+    "dealNew": "79219",
+    "newsmartID": 385
+  },
+  "1533": {
+    "dealOld": 32083,
+    "dealNew": "79220",
+    "newsmartID": 386
+  },
+  "1531": {
+    "dealOld": 32081,
+    "dealNew": "79221",
+    "newsmartID": 387
+  },
+  "1529": {
+    "dealOld": 32081,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "1527": {
+    "dealOld": 32079,
+    "dealNew": "79222",
+    "newsmartID": 388
+  },
+  "1525": {
+    "dealOld": 32077,
+    "dealNew": "79223",
+    "newsmartID": 389
+  },
+  "1523": {
+    "dealOld": 32053,
+    "dealNew": "79225",
+    "newsmartID": 390
+  },
+  "1521": {
+    "dealOld": 31935,
+    "dealNew": "79256",
+    "newsmartID": 391
+  },
+  "1519": {
+    "dealOld": 31933,
+    "dealNew": "79257",
+    "newsmartID": 392
+  },
+  "1517": {
+    "dealOld": 31967,
+    "dealNew": "79247",
+    "newsmartID": 393
+  },
+  "1515": {
+    "dealOld": 31965,
+    "dealNew": "79248",
+    "newsmartID": 394
+  },
+  "1513": {
+    "dealOld": 31963,
+    "dealNew": "79249",
+    "newsmartID": 395
+  },
+  "1511": {
+    "dealOld": 31957,
+    "dealNew": "79251",
+    "newsmartID": 396
+  },
+  "1509": {
+    "dealOld": 31955,
+    "dealNew": "79252",
+    "newsmartID": 397
+  },
+  "1507": {
+    "dealOld": 31953,
+    "dealNew": "79253",
+    "newsmartID": 398
+  },
+  "1505": {
+    "dealOld": 31949,
+    "dealNew": "79255",
+    "newsmartID": 399
+  },
+  "1503": {
+    "dealOld": 31917,
+    "dealNew": "79265",
+    "newsmartID": 400
+  },
+  "1501": {
+    "dealOld": 31897,
+    "dealNew": "79269",
+    "newsmartID": 401
+  },
+  "1499": {
+    "dealOld": 31891,
+    "dealNew": "79272",
+    "newsmartID": 402
+  },
+  "1497": {
+    "dealOld": 31889,
+    "dealNew": "79273",
+    "newsmartID": 403
+  },
+  "1495": {
+    "dealOld": 31885,
+    "dealNew": "79275",
+    "newsmartID": 404
+  },
+  "1493": {
+    "dealOld": 31879,
+    "dealNew": "79278",
+    "newsmartID": 405
+  },
+  "1491": {
+    "dealOld": 31871,
+    "dealNew": "79282",
+    "newsmartID": 406
+  },
+  "1489": {
+    "dealOld": 31867,
+    "dealNew": "79283",
+    "newsmartID": 407
+  },
+  "1487": {
+    "dealOld": 31857,
+    "dealNew": "79285",
+    "newsmartID": 408
+  },
+  "1485": {
+    "dealOld": 31851,
+    "dealNew": "79286",
+    "newsmartID": 409
+  },
+  "1483": {
+    "dealOld": 30163,
+    "dealNew": "79685",
+    "newsmartID": 410
+  },
+  "1481": {
+    "dealOld": 31675,
+    "dealNew": "79298",
+    "newsmartID": 411
+  },
+  "1479": {
+    "dealOld": 31671,
+    "dealNew": "79300",
+    "newsmartID": 412
+  },
+  "1477": {
+    "dealOld": 31667,
+    "dealNew": "79302",
+    "newsmartID": 413
+  },
+  "1475": {
+    "dealOld": 31663,
+    "dealNew": "79304",
+    "newsmartID": 414
+  },
+  "1473": {
+    "dealOld": 31661,
+    "dealNew": "79305",
+    "newsmartID": 415
+  },
+  "1471": {
+    "dealOld": 31109,
+    "dealNew": "79439",
+    "newsmartID": 416
+  },
+  "1469": {
+    "dealOld": 31107,
+    "dealNew": "79440",
+    "newsmartID": 417
+  },
+  "1467": {
+    "dealOld": 31521,
+    "dealNew": "79339",
+    "newsmartID": 418
+  },
+  "1465": {
+    "dealOld": 31519,
+    "dealNew": "79340",
+    "newsmartID": 419
+  },
+  "1463": {
+    "dealOld": 31517,
+    "dealNew": "79341",
+    "newsmartID": 420
+  },
+  "1461": {
+    "dealOld": 31515,
+    "dealNew": "79342",
+    "newsmartID": 421
+  },
+  "1459": {
+    "dealOld": 31511,
+    "dealNew": "79344",
+    "newsmartID": 422
+  },
+  "1457": {
+    "dealOld": 31507,
+    "dealNew": "79346",
+    "newsmartID": 423
+  },
+  "1455": {
+    "dealOld": 31505,
+    "dealNew": "79347",
+    "newsmartID": 424
+  },
+  "1453": {
+    "dealOld": 31503,
+    "dealNew": "79348",
+    "newsmartID": 425
+  },
+  "1451": {
+    "dealOld": 31499,
+    "dealNew": "79350",
+    "newsmartID": 426
+  },
+  "1449": {
+    "dealOld": 31497,
+    "dealNew": "79351",
+    "newsmartID": 427
+  },
+  "1447": {
+    "dealOld": 31493,
+    "dealNew": "79353",
+    "newsmartID": 428
+  },
+  "1445": {
+    "dealOld": 31485,
+    "dealNew": "79356",
+    "newsmartID": 429
+  },
+  "1443": {
+    "dealOld": 31415,
+    "dealNew": "79371",
+    "newsmartID": 430
+  },
+  "1441": {
+    "dealOld": 31413,
+    "dealNew": "79372",
+    "newsmartID": 431
+  },
+  "1439": {
+    "dealOld": 31411,
+    "dealNew": "79373",
+    "newsmartID": 432
+  },
+  "1437": {
+    "dealOld": 31409,
+    "dealNew": "79374",
+    "newsmartID": 433
+  },
+  "1435": {
+    "dealOld": 31405,
+    "dealNew": "79376",
+    "newsmartID": 434
+  },
+  "1433": {
+    "dealOld": 31403,
+    "dealNew": "79377",
+    "newsmartID": 435
+  },
+  "1431": {
+    "dealOld": 31333,
+    "dealNew": "79388",
+    "newsmartID": 436
+  },
+  "1429": {
+    "dealOld": 31331,
+    "dealNew": "79389",
+    "newsmartID": 437
+  },
+  "1427": {
+    "dealOld": 31329,
+    "dealNew": "79390",
+    "newsmartID": 438
+  },
+  "1425": {
+    "dealOld": 31325,
+    "dealNew": "79392",
+    "newsmartID": 439
+  },
+  "1423": {
+    "dealOld": 31319,
+    "dealNew": "79395",
+    "newsmartID": 440
+  },
+  "1421": {
+    "dealOld": 31317,
+    "dealNew": "79396",
+    "newsmartID": 441
+  },
+  "1419": {
+    "dealOld": 31315,
+    "dealNew": "79397",
+    "newsmartID": 442
+  },
+  "1417": {
+    "dealOld": 31313,
+    "dealNew": "79398",
+    "newsmartID": 443
+  },
+  "1415": {
+    "dealOld": 31311,
+    "dealNew": "79399",
+    "newsmartID": 444
+  },
+  "1413": {
+    "dealOld": 31309,
+    "dealNew": "79400",
+    "newsmartID": 445
+  },
+  "1411": {
+    "dealOld": 31307,
+    "dealNew": "79401",
+    "newsmartID": 446
+  },
+  "1409": {
+    "dealOld": 31305,
+    "dealNew": "79402",
+    "newsmartID": 447
+  },
+  "1407": {
+    "dealOld": 31303,
+    "dealNew": "79403",
+    "newsmartID": 448
+  },
+  "1405": {
+    "dealOld": 31301,
+    "dealNew": "79404",
+    "newsmartID": 449
+  },
+  "1403": {
+    "dealOld": 31299,
+    "dealNew": "79405",
+    "newsmartID": 450
+  },
+  "1401": {
+    "dealOld": 31297,
+    "dealNew": "79406",
+    "newsmartID": 451
+  },
+  "1399": {
+    "dealOld": 31295,
+    "dealNew": "79407",
+    "newsmartID": 452
+  },
+  "1397": {
+    "dealOld": 31291,
+    "dealNew": "79409",
+    "newsmartID": 453
+  },
+  "1395": {
+    "dealOld": 31083,
+    "dealNew": "79442",
+    "newsmartID": 454
+  },
+  "1393": {
+    "dealOld": 31047,
+    "dealNew": "79453",
+    "newsmartID": 455
+  },
+  "1391": {
+    "dealOld": 31045,
+    "dealNew": "79454",
+    "newsmartID": 456
+  },
+  "1389": {
+    "dealOld": 31041,
+    "dealNew": "79455",
+    "newsmartID": 457
+  },
+  "1387": {
+    "dealOld": 31039,
+    "dealNew": "79456",
+    "newsmartID": 458
+  },
+  "1385": {
+    "dealOld": 31033,
+    "dealNew": "79458",
+    "newsmartID": 459
+  },
+  "1383": {
+    "dealOld": 31029,
+    "dealNew": "79460",
+    "newsmartID": 460
+  },
+  "1381": {
+    "dealOld": 31027,
+    "dealNew": "79461",
+    "newsmartID": 461
+  },
+  "1379": {
+    "dealOld": 31023,
+    "dealNew": "79463",
+    "newsmartID": 462
+  },
+  "1377": {
+    "dealOld": 31019,
+    "dealNew": "79465",
+    "newsmartID": 463
+  },
+  "1375": {
+    "dealOld": 30939,
+    "dealNew": "79485",
+    "newsmartID": 464
+  },
+  "1373": {
+    "dealOld": 30937,
+    "dealNew": "79486",
+    "newsmartID": 465
+  },
+  "1371": {
+    "dealOld": 30935,
+    "dealNew": "79487",
+    "newsmartID": 466
+  },
+  "1369": {
+    "dealOld": 30933,
+    "dealNew": "79488",
+    "newsmartID": 467
+  },
+  "1367": {
+    "dealOld": 30931,
+    "dealNew": "79489",
+    "newsmartID": 468
+  },
+  "1365": {
+    "dealOld": 30929,
+    "dealNew": "79490",
+    "newsmartID": 469
+  },
+  "1363": {
+    "dealOld": 30927,
+    "dealNew": "79491",
+    "newsmartID": 470
+  },
+  "1361": {
+    "dealOld": 30923,
+    "dealNew": "79492",
+    "newsmartID": 471
+  },
+  "1359": {
+    "dealOld": 30921,
+    "dealNew": "79493",
+    "newsmartID": 472
+  },
+  "1357": {
+    "dealOld": 30919,
+    "dealNew": "79494",
+    "newsmartID": 473
+  },
+  "1355": {
+    "dealOld": 30917,
+    "dealNew": "79495",
+    "newsmartID": 474
+  },
+  "1353": {
+    "dealOld": 30915,
+    "dealNew": "79496",
+    "newsmartID": 475
+  },
+  "1351": {
+    "dealOld": 30913,
+    "dealNew": "79497",
+    "newsmartID": 476
+  },
+  "1349": {
+    "dealOld": 30911,
+    "dealNew": "79498",
+    "newsmartID": 477
+  },
+  "1347": {
+    "dealOld": 30909,
+    "dealNew": "79499",
+    "newsmartID": 478
+  },
+  "1345": {
+    "dealOld": 30907,
+    "dealNew": "79500",
+    "newsmartID": 479
+  },
+  "1343": {
+    "dealOld": 30903,
+    "dealNew": "79502",
+    "newsmartID": 480
+  },
+  "1341": {
+    "dealOld": 30901,
+    "dealNew": "79503",
+    "newsmartID": 481
+  },
+  "1339": {
+    "dealOld": 30895,
+    "dealNew": "79506",
+    "newsmartID": 482
+  },
+  "1337": {
+    "dealOld": 30889,
+    "dealNew": "79508",
+    "newsmartID": 483
+  },
+  "1335": {
+    "dealOld": 30887,
+    "dealNew": "79509",
+    "newsmartID": 484
+  },
+  "1333": {
+    "dealOld": 30883,
+    "dealNew": "79511",
+    "newsmartID": 485
+  },
+  "1331": {
+    "dealOld": 30881,
+    "dealNew": "79512",
+    "newsmartID": 486
+  },
+  "1329": {
+    "dealOld": 30877,
+    "dealNew": "79514",
+    "newsmartID": 1086
+  },
+  "1327": {
+    "dealOld": 30875,
+    "dealNew": "79515",
+    "newsmartID": 488
+  },
+  "1325": {
+    "dealOld": 30871,
+    "dealNew": "79517",
+    "newsmartID": 489
+  },
+  "1323": {
+    "dealOld": 30867,
+    "dealNew": "79519",
+    "newsmartID": 490
+  },
+  "1321": {
+    "dealOld": 30865,
+    "dealNew": "79520",
+    "newsmartID": 491
+  },
+  "1319": {
+    "dealOld": 30859,
+    "dealNew": "79522",
+    "newsmartID": 492
+  },
+  "1317": {
+    "dealOld": 30763,
+    "dealNew": "79537",
+    "newsmartID": 493
+  },
+  "1315": {
+    "dealOld": 30795,
+    "dealNew": "79531",
+    "newsmartID": 494
+  },
+  "1313": {
+    "dealOld": 30589,
+    "dealNew": "79563",
+    "newsmartID": 495
+  },
+  "1311": {
+    "dealOld": 30587,
+    "dealNew": "79564",
+    "newsmartID": 496
+  },
+  "1309": {
+    "dealOld": 30583,
+    "dealNew": "79566",
+    "newsmartID": 497
+  },
+  "1307": {
+    "dealOld": 30581,
+    "dealNew": "79567",
+    "newsmartID": 498
+  },
+  "1305": {
+    "dealOld": 30579,
+    "dealNew": "79568",
+    "newsmartID": 499
+  },
+  "1303": {
+    "dealOld": 30569,
+    "dealNew": "79573",
+    "newsmartID": 500
+  },
+  "1301": {
+    "dealOld": 30561,
+    "dealNew": "79577",
+    "newsmartID": 501
+  },
+  "1299": {
+    "dealOld": 30557,
+    "dealNew": "79579",
+    "newsmartID": 502
+  },
+  "1297": {
+    "dealOld": 30555,
+    "dealNew": "79580",
+    "newsmartID": 503
+  },
+  "1295": {
+    "dealOld": 30471,
+    "dealNew": "79601",
+    "newsmartID": 504
+  },
+  "1293": {
+    "dealOld": 30469,
+    "dealNew": "79602",
+    "newsmartID": 505
+  },
+  "1291": {
+    "dealOld": 30467,
+    "dealNew": "79603",
+    "newsmartID": 506
+  },
+  "1289": {
+    "dealOld": 30463,
+    "dealNew": "79605",
+    "newsmartID": 507
+  },
+  "1287": {
+    "dealOld": 30461,
+    "dealNew": "79606",
+    "newsmartID": 508
+  },
+  "1285": {
+    "dealOld": 30459,
+    "dealNew": "79607",
+    "newsmartID": 509
+  },
+  "1283": {
+    "dealOld": 30457,
+    "dealNew": "79608",
+    "newsmartID": 510
+  },
+  "1281": {
+    "dealOld": 30353,
+    "dealNew": "79624",
+    "newsmartID": 511
+  },
+  "1279": {
+    "dealOld": 30351,
+    "dealNew": "79625",
+    "newsmartID": 512
+  },
+  "1277": {
+    "dealOld": 30347,
+    "dealNew": "79627",
+    "newsmartID": 513
+  },
+  "1275": {
+    "dealOld": 30345,
+    "dealNew": "79628",
+    "newsmartID": 514
+  },
+  "1273": {
+    "dealOld": 30341,
+    "dealNew": "79630",
+    "newsmartID": 515
+  },
+  "1271": {
+    "dealOld": 30339,
+    "dealNew": "79631",
+    "newsmartID": 516
+  },
+  "1269": {
+    "dealOld": 30335,
+    "dealNew": "79633",
+    "newsmartID": 517
+  },
+  "1267": {
+    "dealOld": 30333,
+    "dealNew": "79634",
+    "newsmartID": 518
+  },
+  "1265": {
+    "dealOld": 30331,
+    "dealNew": "79635",
+    "newsmartID": 519
+  },
+  "1263": {
+    "dealOld": 30329,
+    "dealNew": "79636",
+    "newsmartID": 520
+  },
+  "1261": {
+    "dealOld": 29673,
+    "dealNew": "79793",
+    "newsmartID": 521
+  },
+  "1259": {
+    "dealOld": 30315,
+    "dealNew": "79643",
+    "newsmartID": 522
+  },
+  "1257": {
+    "dealOld": 30311,
+    "dealNew": "79645",
+    "newsmartID": 523
+  },
+  "1255": {
+    "dealOld": 30125,
+    "dealNew": "79703",
+    "newsmartID": 524
+  },
+  "1253": {
+    "dealOld": 30125,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "1251": {
+    "dealOld": 30123,
+    "dealNew": "79704",
+    "newsmartID": 525
+  },
+  "1249": {
+    "dealOld": 30119,
+    "dealNew": "79706",
+    "newsmartID": 526
+  },
+  "1247": {
+    "dealOld": 30117,
+    "dealNew": "79707",
+    "newsmartID": 527
+  },
+  "1245": {
+    "dealOld": 30025,
+    "dealNew": "79717",
+    "newsmartID": 528
+  },
+  "1243": {
+    "dealOld": 30023,
+    "dealNew": "79718",
+    "newsmartID": 529
+  },
+  "1241": {
+    "dealOld": 30021,
+    "dealNew": "79719",
+    "newsmartID": 530
+  },
+  "1239": {
+    "dealOld": 30017,
+    "dealNew": "79721",
+    "newsmartID": 531
+  },
+  "1237": {
+    "dealOld": 30013,
+    "dealNew": "79723",
+    "newsmartID": 532
+  },
+  "1235": {
+    "dealOld": 30011,
+    "dealNew": "79724",
+    "newsmartID": 533
+  },
+  "1233": {
+    "dealOld": 30009,
+    "dealNew": "79725",
+    "newsmartID": 534
+  },
+  "1231": {
+    "dealOld": 29941,
+    "dealNew": "79751",
+    "newsmartID": 535
+  },
+  "1229": {
+    "dealOld": 29939,
+    "dealNew": "79752",
+    "newsmartID": 536
+  },
+  "1227": {
+    "dealOld": 29937,
+    "dealNew": "79753",
+    "newsmartID": 537
+  },
+  "1225": {
+    "dealOld": 29935,
+    "dealNew": "79754",
+    "newsmartID": 538
+  },
+  "1223": {
+    "dealOld": 29933,
+    "dealNew": "79755",
+    "newsmartID": 539
+  },
+  "1221": {
+    "dealOld": 29929,
+    "dealNew": "79757",
+    "newsmartID": 540
+  },
+  "1219": {
+    "dealOld": 29925,
+    "dealNew": "79758",
+    "newsmartID": 541
+  },
+  "1217": {
+    "dealOld": 29921,
+    "dealNew": "79759",
+    "newsmartID": 542
+  },
+  "1215": {
+    "dealOld": 29919,
+    "dealNew": "79760",
+    "newsmartID": 543
+  },
+  "1213": {
+    "dealOld": 29911,
+    "dealNew": "79762",
+    "newsmartID": 544
+  },
+  "1211": {
+    "dealOld": 29667,
+    "dealNew": "79794",
+    "newsmartID": 545
+  },
+  "1209": {
+    "dealOld": 29659,
+    "dealNew": "79798",
+    "newsmartID": 546
+  },
+  "1207": {
+    "dealOld": 29661,
+    "dealNew": "79797",
+    "newsmartID": 547
+  },
+  "1205": {
+    "dealOld": 29663,
+    "dealNew": "79796",
+    "newsmartID": 548
+  },
+  "1203": {
+    "dealOld": 29657,
+    "dealNew": "79799",
+    "newsmartID": 549
+  },
+  "1201": {
+    "dealOld": 29655,
+    "dealNew": "79800",
+    "newsmartID": 550
+  },
+  "1199": {
+    "dealOld": 29651,
+    "dealNew": "79802",
+    "newsmartID": 551
+  },
+  "1197": {
+    "dealOld": 29653,
+    "dealNew": "79801",
+    "newsmartID": 552
+  },
+  "1195": {
+    "dealOld": 29467,
+    "dealNew": "79861",
+    "newsmartID": 553
+  },
+  "1193": {
+    "dealOld": 29463,
+    "dealNew": "79863",
+    "newsmartID": 554
+  },
+  "1191": {
+    "dealOld": 29459,
+    "dealNew": "79865",
+    "newsmartID": 555
+  },
+  "1189": {
+    "dealOld": 29447,
+    "dealNew": "79869",
+    "newsmartID": 556
+  },
+  "1187": {
+    "dealOld": 29441,
+    "dealNew": "79870",
+    "newsmartID": 557
+  },
+  "1185": {
+    "dealOld": 29435,
+    "dealNew": "79873",
+    "newsmartID": 558
+  },
+  "1183": {
+    "dealOld": 29431,
+    "dealNew": "79875",
+    "newsmartID": 559
+  },
+  "1181": {
+    "dealOld": 29429,
+    "dealNew": "79876",
+    "newsmartID": 560
+  },
+  "1179": {
+    "dealOld": 29423,
+    "dealNew": "79879",
+    "newsmartID": 561
+  },
+  "1177": {
+    "dealOld": 29419,
+    "dealNew": "79880",
+    "newsmartID": 562
+  },
+  "1175": {
+    "dealOld": 29417,
+    "dealNew": "79881",
+    "newsmartID": 563
+  },
+  "1173": {
+    "dealOld": 29413,
+    "dealNew": "79883",
+    "newsmartID": 564
+  },
+  "1171": {
+    "dealOld": 29411,
+    "dealNew": "79884",
+    "newsmartID": 565
+  },
+  "1169": {
+    "dealOld": 29403,
+    "dealNew": "79888",
+    "newsmartID": 566
+  },
+  "1167": {
+    "dealOld": 29397,
+    "dealNew": "79891",
+    "newsmartID": 567
+  },
+  "1165": {
+    "dealOld": 29083,
+    "dealNew": "79945",
+    "newsmartID": 568
+  },
+  "1163": {
+    "dealOld": 28579,
+    "dealNew": "80054",
+    "newsmartID": 569
+  },
+  "1161": {
+    "dealOld": 29251,
+    "dealNew": "79928",
+    "newsmartID": 570
+  },
+  "1159": {
+    "dealOld": 29253,
+    "dealNew": "79927",
+    "newsmartID": 571
+  },
+  "1157": {
+    "dealOld": 29255,
+    "dealNew": "79926",
+    "newsmartID": 572
+  },
+  "1155": {
+    "dealOld": 29257,
+    "dealNew": "79925",
+    "newsmartID": 573
+  },
+  "1153": {
+    "dealOld": 29269,
+    "dealNew": "79919",
+    "newsmartID": 574
+  },
+  "1151": {
+    "dealOld": 29275,
+    "dealNew": "79916",
+    "newsmartID": 575
+  },
+  "1149": {
+    "dealOld": 29107,
+    "dealNew": "79940",
+    "newsmartID": 576
+  },
+  "1147": {
+    "dealOld": 29111,
+    "dealNew": "79938",
+    "newsmartID": 577
+  },
+  "1145": {
+    "dealOld": 29109,
+    "dealNew": "79939",
+    "newsmartID": 578
+  },
+  "1143": {
+    "dealOld": 29113,
+    "dealNew": "79937",
+    "newsmartID": 579
+  },
+  "1141": {
+    "dealOld": 29115,
+    "dealNew": "79936",
+    "newsmartID": 580
+  },
+  "1139": {
+    "dealOld": 29117,
+    "dealNew": "79935",
+    "newsmartID": 581
+  },
+  "1137": {
+    "dealOld": 29033,
+    "dealNew": "79957",
+    "newsmartID": 582
+  },
+  "1135": {
+    "dealOld": 29031,
+    "dealNew": "79958",
+    "newsmartID": 583
+  },
+  "1133": {
+    "dealOld": 29035,
+    "dealNew": "79956",
+    "newsmartID": 584
+  },
+  "1131": {
+    "dealOld": 29043,
+    "dealNew": "79952",
+    "newsmartID": 585
+  },
+  "1129": {
+    "dealOld": 29041,
+    "dealNew": "79953",
+    "newsmartID": 586
+  },
+  "1127": {
+    "dealOld": 29047,
+    "dealNew": "79951",
+    "newsmartID": 587
+  },
+  "1125": {
+    "dealOld": 29049,
+    "dealNew": "79950",
+    "newsmartID": 588
+  },
+  "1123": {
+    "dealOld": 28955,
+    "dealNew": "79973",
+    "newsmartID": 589
+  },
+  "1121": {
+    "dealOld": 28943,
+    "dealNew": "79979",
+    "newsmartID": 590
+  },
+  "1119": {
+    "dealOld": 28945,
+    "dealNew": "79978",
+    "newsmartID": 591
+  },
+  "1117": {
+    "dealOld": 28947,
+    "dealNew": "79977",
+    "newsmartID": 592
+  },
+  "1115": {
+    "dealOld": 28767,
+    "dealNew": "80011",
+    "newsmartID": 593
+  },
+  "1113": {
+    "dealOld": 28769,
+    "dealNew": "80010",
+    "newsmartID": 594
+  },
+  "1111": {
+    "dealOld": 28771,
+    "dealNew": "80009",
+    "newsmartID": 595
+  },
+  "1109": {
+    "dealOld": 28773,
+    "dealNew": "80008",
+    "newsmartID": 596
+  },
+  "1107": {
+    "dealOld": 28775,
+    "dealNew": "80007",
+    "newsmartID": 597
+  },
+  "1105": {
+    "dealOld": 28777,
+    "dealNew": "80006",
+    "newsmartID": 598
+  },
+  "1103": {
+    "dealOld": 28801,
+    "dealNew": "80005",
+    "newsmartID": 599
+  },
+  "1101": {
+    "dealOld": 28803,
+    "dealNew": "80004",
+    "newsmartID": 600
+  },
+  "1099": {
+    "dealOld": 28805,
+    "dealNew": "80003",
+    "newsmartID": 601
+  },
+  "1097": {
+    "dealOld": 28807,
+    "dealNew": "80002",
+    "newsmartID": 602
+  },
+  "1095": {
+    "dealOld": 28811,
+    "dealNew": "80000",
+    "newsmartID": 603
+  },
+  "1093": {
+    "dealOld": 28817,
+    "dealNew": "79997",
+    "newsmartID": 604
+  },
+  "1091": {
+    "dealOld": 28821,
+    "dealNew": "79996",
+    "newsmartID": 605
+  },
+  "1089": {
+    "dealOld": 28815,
+    "dealNew": "79998",
+    "newsmartID": 606
+  },
+  "1087": {
+    "dealOld": 28813,
+    "dealNew": "79999",
+    "newsmartID": 607
+  },
+  "1085": {
+    "dealOld": 28667,
+    "dealNew": "80037",
+    "newsmartID": 608
+  },
+  "1083": {
+    "dealOld": 28665,
+    "dealNew": "80038",
+    "newsmartID": 609
+  },
+  "1081": {
+    "dealOld": 28663,
+    "dealNew": "80039",
+    "newsmartID": 610
+  },
+  "1079": {
+    "dealOld": 28659,
+    "dealNew": "80041",
+    "newsmartID": 611
+  },
+  "1077": {
+    "dealOld": 28635,
+    "dealNew": "80047",
+    "newsmartID": 612
+  },
+  "1075": {
+    "dealOld": 23753,
+    "dealNew": "81293",
+    "newsmartID": 613
+  },
+  "1073": {
+    "dealOld": 28545,
+    "dealNew": "80055",
+    "newsmartID": 614
+  },
+  "1071": {
+    "dealOld": 28543,
+    "dealNew": "80056",
+    "newsmartID": 615
+  },
+  "1069": {
+    "dealOld": 28527,
+    "dealNew": "80064",
+    "newsmartID": 616
+  },
+  "1067": {
+    "dealOld": 28529,
+    "dealNew": "80063",
+    "newsmartID": 617
+  },
+  "1065": {
+    "dealOld": 28531,
+    "dealNew": "80062",
+    "newsmartID": 618
+  },
+  "1063": {
+    "dealOld": 28533,
+    "dealNew": "80061",
+    "newsmartID": 619
+  },
+  "1061": {
+    "dealOld": 28521,
+    "dealNew": "80067",
+    "newsmartID": 620
+  },
+  "1059": {
+    "dealOld": 28519,
+    "dealNew": "80068",
+    "newsmartID": 621
+  },
+  "1057": {
+    "dealOld": 28515,
+    "dealNew": "80070",
+    "newsmartID": 622
+  },
+  "1055": {
+    "dealOld": 28385,
+    "dealNew": "80099",
+    "newsmartID": 623
+  },
+  "1053": {
+    "dealOld": 28383,
+    "dealNew": "80100",
+    "newsmartID": 624
+  },
+  "1051": {
+    "dealOld": 28509,
+    "dealNew": "80072",
+    "newsmartID": 625
+  },
+  "1049": {
+    "dealOld": 28459,
+    "dealNew": "80075",
+    "newsmartID": 626
+  },
+  "1047": {
+    "dealOld": 28433,
+    "dealNew": "80081",
+    "newsmartID": 627
+  },
+  "1045": {
+    "dealOld": 28427,
+    "dealNew": "80084",
+    "newsmartID": 628
+  },
+  "1043": {
+    "dealOld": 28429,
+    "dealNew": "80083",
+    "newsmartID": 629
+  },
+  "1041": {
+    "dealOld": 28421,
+    "dealNew": "80086",
+    "newsmartID": 630
+  },
+  "1039": {
+    "dealOld": 28425,
+    "dealNew": "80085",
+    "newsmartID": 631
+  },
+  "1037": {
+    "dealOld": 28419,
+    "dealNew": "80087",
+    "newsmartID": 632
+  },
+  "1035": {
+    "dealOld": 28403,
+    "dealNew": "80093",
+    "newsmartID": 633
+  },
+  "1033": {
+    "dealOld": 28397,
+    "dealNew": "80095",
+    "newsmartID": 634
+  },
+  "1031": {
+    "dealOld": 28395,
+    "dealNew": "80096",
+    "newsmartID": 635
+  },
+  "1029": {
+    "dealOld": 28393,
+    "dealNew": "80097",
+    "newsmartID": 636
+  },
+  "1027": {
+    "dealOld": 28435,
+    "dealNew": "80080",
+    "newsmartID": 637
+  },
+  "1025": {
+    "dealOld": 28377,
+    "dealNew": "80103",
+    "newsmartID": 638
+  },
+  "1023": {
+    "dealOld": 28379,
+    "dealNew": "80102",
+    "newsmartID": 639
+  },
+  "1021": {
+    "dealOld": 28381,
+    "dealNew": "80101",
+    "newsmartID": 640
+  },
+  "1019": {
+    "dealOld": 28285,
+    "dealNew": "80124",
+    "newsmartID": 641
+  },
+  "1017": {
+    "dealOld": 28283,
+    "dealNew": "80125",
+    "newsmartID": 642
+  },
+  "1015": {
+    "dealOld": 28279,
+    "dealNew": "80127",
+    "newsmartID": 643
+  },
+  "1013": {
+    "dealOld": 28277,
+    "dealNew": "80128",
+    "newsmartID": 644
+  },
+  "1011": {
+    "dealOld": 28273,
+    "dealNew": "80130",
+    "newsmartID": 645
+  },
+  "1009": {
+    "dealOld": 28271,
+    "dealNew": "80131",
+    "newsmartID": 646
+  },
+  "1007": {
+    "dealOld": 28269,
+    "dealNew": "80132",
+    "newsmartID": 647
+  },
+  "1005": {
+    "dealOld": 28265,
+    "dealNew": "80134",
+    "newsmartID": 648
+  },
+  "1003": {
+    "dealOld": 28263,
+    "dealNew": "80135",
+    "newsmartID": 649
+  },
+  "1001": {
+    "dealOld": 28259,
+    "dealNew": "80137",
+    "newsmartID": 650
+  },
+  "999": {
+    "dealOld": 28257,
+    "dealNew": "80138",
+    "newsmartID": 651
+  },
+  "997": {
+    "dealOld": 28255,
+    "dealNew": "80139",
+    "newsmartID": 652
+  },
+  "995": {
+    "dealOld": 28253,
+    "dealNew": "80140",
+    "newsmartID": 653
+  },
+  "993": {
+    "dealOld": 28251,
+    "dealNew": "80141",
+    "newsmartID": 654
+  },
+  "991": {
+    "dealOld": 28249,
+    "dealNew": "80142",
+    "newsmartID": 655
+  },
+  "989": {
+    "dealOld": 28229,
+    "dealNew": "80147",
+    "newsmartID": 656
+  },
+  "987": {
+    "dealOld": 28225,
+    "dealNew": "80148",
+    "newsmartID": 657
+  },
+  "985": {
+    "dealOld": 28223,
+    "dealNew": "80149",
+    "newsmartID": 658
+  },
+  "983": {
+    "dealOld": 28219,
+    "dealNew": "80150",
+    "newsmartID": 659
+  },
+  "981": {
+    "dealOld": 28215,
+    "dealNew": "80151",
+    "newsmartID": 660
+  },
+  "979": {
+    "dealOld": 28213,
+    "dealNew": "80152",
+    "newsmartID": 661
+  },
+  "977": {
+    "dealOld": 28209,
+    "dealNew": "80153",
+    "newsmartID": 662
+  },
+  "975": {
+    "dealOld": 28203,
+    "dealNew": "80155",
+    "newsmartID": 663
+  },
+  "973": {
+    "dealOld": 28199,
+    "dealNew": "80157",
+    "newsmartID": 664
+  },
+  "971": {
+    "dealOld": 27825,
+    "dealNew": "80241",
+    "newsmartID": 665
+  },
+  "969": {
+    "dealOld": 27827,
+    "dealNew": "80240",
+    "newsmartID": 666
+  },
+  "967": {
+    "dealOld": 27829,
+    "dealNew": "80239",
+    "newsmartID": 667
+  },
+  "965": {
+    "dealOld": 27831,
+    "dealNew": "80238",
+    "newsmartID": 668
+  },
+  "963": {
+    "dealOld": 27833,
+    "dealNew": "80237",
+    "newsmartID": 669
+  },
+  "961": {
+    "dealOld": 27835,
+    "dealNew": "80236",
+    "newsmartID": 670
+  },
+  "959": {
+    "dealOld": 27837,
+    "dealNew": "80235",
+    "newsmartID": 671
+  },
+  "957": {
+    "dealOld": 27839,
+    "dealNew": "80234",
+    "newsmartID": 672
+  },
+  "955": {
+    "dealOld": 27823,
+    "dealNew": "80242",
+    "newsmartID": 673
+  },
+  "953": {
+    "dealOld": 27853,
+    "dealNew": "80227",
+    "newsmartID": 674
+  },
+  "951": {
+    "dealOld": 27855,
+    "dealNew": "80226",
+    "newsmartID": 675
+  },
+  "949": {
+    "dealOld": 27857,
+    "dealNew": "80225",
+    "newsmartID": 676
+  },
+  "947": {
+    "dealOld": 27859,
+    "dealNew": "80224",
+    "newsmartID": 677
+  },
+  "945": {
+    "dealOld": 27781,
+    "dealNew": "80248",
+    "newsmartID": 678
+  },
+  "943": {
+    "dealOld": 27783,
+    "dealNew": "80247",
+    "newsmartID": 679
+  },
+  "941": {
+    "dealOld": 27785,
+    "dealNew": "80246",
+    "newsmartID": 680
+  },
+  "939": {
+    "dealOld": 27787,
+    "dealNew": "80245",
+    "newsmartID": 681
+  },
+  "937": {
+    "dealOld": 27789,
+    "dealNew": "80244",
+    "newsmartID": 682
+  },
+  "935": {
+    "dealOld": 26671,
+    "dealNew": "80552",
+    "newsmartID": 683
+  },
+  "933": {
+    "dealOld": 27691,
+    "dealNew": "80265",
+    "newsmartID": 684
+  },
+  "931": {
+    "dealOld": 27689,
+    "dealNew": "80266",
+    "newsmartID": 685
+  },
+  "929": {
+    "dealOld": 27687,
+    "dealNew": "80267",
+    "newsmartID": 686
+  },
+  "927": {
+    "dealOld": 27685,
+    "dealNew": "80268",
+    "newsmartID": 687
+  },
+  "925": {
+    "dealOld": 27683,
+    "dealNew": "80269",
+    "newsmartID": 688
+  },
+  "923": {
+    "dealOld": 27677,
+    "dealNew": "80272",
+    "newsmartID": 689
+  },
+  "921": {
+    "dealOld": 27675,
+    "dealNew": "80273",
+    "newsmartID": 690
+  },
+  "919": {
+    "dealOld": 27671,
+    "dealNew": "80275",
+    "newsmartID": 691
+  },
+  "917": {
+    "dealOld": 27595,
+    "dealNew": "80296",
+    "newsmartID": 692
+  },
+  "915": {
+    "dealOld": 27593,
+    "dealNew": "80297",
+    "newsmartID": 693
+  },
+  "913": {
+    "dealOld": 27591,
+    "dealNew": "80298",
+    "newsmartID": 694
+  },
+  "911": {
+    "dealOld": 27535,
+    "dealNew": "80326",
+    "newsmartID": 695
+  },
+  "909": {
+    "dealOld": 27541,
+    "dealNew": "80323",
+    "newsmartID": 696
+  },
+  "907": {
+    "dealOld": 27545,
+    "dealNew": "80321",
+    "newsmartID": 697
+  },
+  "905": {
+    "dealOld": 27561,
+    "dealNew": "80313",
+    "newsmartID": 698
+  },
+  "903": {
+    "dealOld": 27563,
+    "dealNew": "80312",
+    "newsmartID": 699
+  },
+  "901": {
+    "dealOld": 27575,
+    "dealNew": "80306",
+    "newsmartID": 700
+  },
+  "899": {
+    "dealOld": 27579,
+    "dealNew": "80304",
+    "newsmartID": 701
+  },
+  "897": {
+    "dealOld": 27423,
+    "dealNew": "80341",
+    "newsmartID": 702
+  },
+  "895": {
+    "dealOld": 27421,
+    "dealNew": "80342",
+    "newsmartID": 703
+  },
+  "893": {
+    "dealOld": 27419,
+    "dealNew": "80343",
+    "newsmartID": 704
+  },
+  "891": {
+    "dealOld": 27417,
+    "dealNew": "80344",
+    "newsmartID": 705
+  },
+  "889": {
+    "dealOld": 27413,
+    "dealNew": "80346",
+    "newsmartID": 706
+  },
+  "887": {
+    "dealOld": 27415,
+    "dealNew": "80345",
+    "newsmartID": 707
+  },
+  "885": {
+    "dealOld": 27411,
+    "dealNew": "80347",
+    "newsmartID": 708
+  },
+  "883": {
+    "dealOld": 27409,
+    "dealNew": "80348",
+    "newsmartID": 709
+  },
+  "881": {
+    "dealOld": 27407,
+    "dealNew": "80349",
+    "newsmartID": 710
+  },
+  "879": {
+    "dealOld": 27405,
+    "dealNew": "80350",
+    "newsmartID": 711
+  },
+  "877": {
+    "dealOld": 27403,
+    "dealNew": "80351",
+    "newsmartID": 712
+  },
+  "875": {
+    "dealOld": 27399,
+    "dealNew": "80353",
+    "newsmartID": 713
+  },
+  "873": {
+    "dealOld": 27395,
+    "dealNew": "80354",
+    "newsmartID": 714
+  },
+  "871": {
+    "dealOld": 27393,
+    "dealNew": "80355",
+    "newsmartID": 715
+  },
+  "869": {
+    "dealOld": 27391,
+    "dealNew": "80356",
+    "newsmartID": 716
+  },
+  "867": {
+    "dealOld": 27389,
+    "dealNew": "80357",
+    "newsmartID": 717
+  },
+  "865": {
+    "dealOld": 27387,
+    "dealNew": "80358",
+    "newsmartID": 718
+  },
+  "863": {
+    "dealOld": 27383,
+    "dealNew": "80359",
+    "newsmartID": 719
+  },
+  "861": {
+    "dealOld": 27377,
+    "dealNew": "80360",
+    "newsmartID": 720
+  },
+  "859": {
+    "dealOld": 27209,
+    "dealNew": "80400",
+    "newsmartID": 721
+  },
+  "857": {
+    "dealOld": 27223,
+    "dealNew": "80396",
+    "newsmartID": 722
+  },
+  "855": {
+    "dealOld": 27225,
+    "dealNew": "80395",
+    "newsmartID": 723
+  },
+  "853": {
+    "dealOld": 27227,
+    "dealNew": "80394",
+    "newsmartID": 724
+  },
+  "851": {
+    "dealOld": 27231,
+    "dealNew": "80393",
+    "newsmartID": 725
+  },
+  "849": {
+    "dealOld": 27233,
+    "dealNew": "80392",
+    "newsmartID": 726
+  },
+  "847": {
+    "dealOld": 27235,
+    "dealNew": "80391",
+    "newsmartID": 727
+  },
+  "845": {
+    "dealOld": 27239,
+    "dealNew": "80390",
+    "newsmartID": 728
+  },
+  "843": {
+    "dealOld": 27201,
+    "dealNew": "80401",
+    "newsmartID": 729
+  },
+  "841": {
+    "dealOld": 27111,
+    "dealNew": "80420",
+    "newsmartID": 730
+  },
+  "839": {
+    "dealOld": 27113,
+    "dealNew": "80419",
+    "newsmartID": 731
+  },
+  "837": {
+    "dealOld": 27115,
+    "dealNew": "80418",
+    "newsmartID": 732
+  },
+  "835": {
+    "dealOld": 27121,
+    "dealNew": "80415",
+    "newsmartID": 733
+  },
+  "833": {
+    "dealOld": 27093,
+    "dealNew": "80427",
+    "newsmartID": 734
+  },
+  "831": {
+    "dealOld": 27095,
+    "dealNew": "80426",
+    "newsmartID": 735
+  },
+  "829": {
+    "dealOld": 27099,
+    "dealNew": "80425",
+    "newsmartID": 736
+  },
+  "827": {
+    "dealOld": 27101,
+    "dealNew": "80424",
+    "newsmartID": 737
+  },
+  "825": {
+    "dealOld": 27105,
+    "dealNew": "80423",
+    "newsmartID": 738
+  },
+  "823": {
+    "dealOld": 27107,
+    "dealNew": "80422",
+    "newsmartID": 739
+  },
+  "821": {
+    "dealOld": 27007,
+    "dealNew": "80446",
+    "newsmartID": 740
+  },
+  "819": {
+    "dealOld": 27005,
+    "dealNew": "80447",
+    "newsmartID": 741
+  },
+  "817": {
+    "dealOld": 26947,
+    "dealNew": "80459",
+    "newsmartID": 742
+  },
+  "815": {
+    "dealOld": 26945,
+    "dealNew": "80460",
+    "newsmartID": 743
+  },
+  "813": {
+    "dealOld": 26943,
+    "dealNew": "80461",
+    "newsmartID": 744
+  },
+  "811": {
+    "dealOld": 26941,
+    "dealNew": "80462",
+    "newsmartID": 745
+  },
+  "809": {
+    "dealOld": 26939,
+    "dealNew": "80463",
+    "newsmartID": 746
+  },
+  "807": {
+    "dealOld": 26827,
+    "dealNew": "80493",
+    "newsmartID": 747
+  },
+  "805": {
+    "dealOld": 26829,
+    "dealNew": "80492",
+    "newsmartID": 748
+  },
+  "803": {
+    "dealOld": 23419,
+    "dealNew": "81383",
+    "newsmartID": 749
+  },
+  "801": {
+    "dealOld": 26425,
+    "dealNew": "80625",
+    "newsmartID": 750
+  },
+  "799": {
+    "dealOld": 26529,
+    "dealNew": "80586",
+    "newsmartID": 751
+  },
+  "797": {
+    "dealOld": 26527,
+    "dealNew": "80587",
+    "newsmartID": 752
+  },
+  "795": {
+    "dealOld": 26519,
+    "dealNew": "80588",
+    "newsmartID": 753
+  },
+  "793": {
+    "dealOld": 26475,
+    "dealNew": "80608",
+    "newsmartID": 754
+  },
+  "791": {
+    "dealOld": 26473,
+    "dealNew": "80609",
+    "newsmartID": 755
+  },
+  "789": {
+    "dealOld": 26471,
+    "dealNew": "80610",
+    "newsmartID": 756
+  },
+  "787": {
+    "dealOld": 26421,
+    "dealNew": "80627",
+    "newsmartID": 757
+  },
+  "785": {
+    "dealOld": 26423,
+    "dealNew": "80626",
+    "newsmartID": 758
+  },
+  "783": {
+    "dealOld": 26399,
+    "dealNew": "80629",
+    "newsmartID": 759
+  },
+  "781": {
+    "dealOld": 26123,
+    "dealNew": "80677",
+    "newsmartID": 760
+  },
+  "779": {
+    "dealOld": 26083,
+    "dealNew": "80688",
+    "newsmartID": 761
+  },
+  "777": {
+    "dealOld": 26081,
+    "dealNew": "80689",
+    "newsmartID": 762
+  },
+  "775": {
+    "dealOld": 26079,
+    "dealNew": "80690",
+    "newsmartID": 763
+  },
+  "773": {
+    "dealOld": 26049,
+    "dealNew": "80694",
+    "newsmartID": 764
+  },
+  "771": {
+    "dealOld": 26051,
+    "dealNew": "80693",
+    "newsmartID": 765
+  },
+  "769": {
+    "dealOld": 26053,
+    "dealNew": "80692",
+    "newsmartID": 766
+  },
+  "767": {
+    "dealOld": 25905,
+    "dealNew": "80728",
+    "newsmartID": 767
+  },
+  "765": {
+    "dealOld": 23069,
+    "dealNew": "81513",
+    "newsmartID": 768
+  },
+  "763": {
+    "dealOld": 25847,
+    "dealNew": "80738",
+    "newsmartID": 769
+  },
+  "761": {
+    "dealOld": 25833,
+    "dealNew": "80745",
+    "newsmartID": 770
+  },
+  "759": {
+    "dealOld": 25837,
+    "dealNew": "80743",
+    "newsmartID": 771
+  },
+  "757": {
+    "dealOld": 25551,
+    "dealNew": "80833",
+    "newsmartID": 772
+  },
+  "755": {
+    "dealOld": 25515,
+    "dealNew": "80841",
+    "newsmartID": 773
+  },
+  "753": {
+    "dealOld": 25513,
+    "dealNew": "80842",
+    "newsmartID": 774
+  },
+  "751": {
+    "dealOld": 25511,
+    "dealNew": "80843",
+    "newsmartID": 775
+  },
+  "749": {
+    "dealOld": 25509,
+    "dealNew": "80844",
+    "newsmartID": 776
+  },
+  "747": {
+    "dealOld": 25479,
+    "dealNew": "80845",
+    "newsmartID": 777
+  },
+  "745": {
+    "dealOld": 25477,
+    "dealNew": "80846",
+    "newsmartID": 778
+  },
+  "743": {
+    "dealOld": 25443,
+    "dealNew": "80862",
+    "newsmartID": 779
+  },
+  "741": {
+    "dealOld": 25349,
+    "dealNew": "80868",
+    "newsmartID": 780
+  },
+  "739": {
+    "dealOld": 25347,
+    "dealNew": "80869",
+    "newsmartID": 781
+  },
+  "737": {
+    "dealOld": 25345,
+    "dealNew": "80870",
+    "newsmartID": 782
+  },
+  "735": {
+    "dealOld": 25343,
+    "dealNew": "80871",
+    "newsmartID": 783
+  },
+  "733": {
+    "dealOld": 25305,
+    "dealNew": "80881",
+    "newsmartID": 784
+  },
+  "731": {
+    "dealOld": 25303,
+    "dealNew": "80882",
+    "newsmartID": 785
+  },
+  "729": {
+    "dealOld": 25301,
+    "dealNew": "80883",
+    "newsmartID": 786
+  },
+  "727": {
+    "dealOld": 25189,
+    "dealNew": "80904",
+    "newsmartID": 787
+  },
+  "725": {
+    "dealOld": 25185,
+    "dealNew": "80906",
+    "newsmartID": 788
+  },
+  "723": {
+    "dealOld": 25117,
+    "dealNew": "80922",
+    "newsmartID": 789
+  },
+  "721": {
+    "dealOld": 25115,
+    "dealNew": "80923",
+    "newsmartID": 790
+  },
+  "719": {
+    "dealOld": 25113,
+    "dealNew": "80924",
+    "newsmartID": 791
+  },
+  "717": {
+    "dealOld": 25111,
+    "dealNew": "80925",
+    "newsmartID": 792
+  },
+  "715": {
+    "dealOld": 25109,
+    "dealNew": "80926",
+    "newsmartID": 793
+  },
+  "713": {
+    "dealOld": 25099,
+    "dealNew": "80931",
+    "newsmartID": 794
+  },
+  "711": {
+    "dealOld": 25097,
+    "dealNew": "80932",
+    "newsmartID": 795
+  },
+  "709": {
+    "dealOld": 25093,
+    "dealNew": "80934",
+    "newsmartID": 796
+  },
+  "707": {
+    "dealOld": 25091,
+    "dealNew": "80935",
+    "newsmartID": 797
+  },
+  "705": {
+    "dealOld": 24953,
+    "dealNew": "80968",
+    "newsmartID": 798
+  },
+  "703": {
+    "dealOld": 24951,
+    "dealNew": "80969",
+    "newsmartID": 799
+  },
+  "701": {
+    "dealOld": 24947,
+    "dealNew": "80971",
+    "newsmartID": 800
+  },
+  "699": {
+    "dealOld": 24945,
+    "dealNew": "80972",
+    "newsmartID": 801
+  },
+  "697": {
+    "dealOld": 24873,
+    "dealNew": "80989",
+    "newsmartID": 802
+  },
+  "695": {
+    "dealOld": 24871,
+    "dealNew": "80990",
+    "newsmartID": 803
+  },
+  "693": {
+    "dealOld": 24869,
+    "dealNew": "80991",
+    "newsmartID": 804
+  },
+  "691": {
+    "dealOld": 24865,
+    "dealNew": "80993",
+    "newsmartID": 805
+  },
+  "689": {
+    "dealOld": 24863,
+    "dealNew": "80994",
+    "newsmartID": 806
+  },
+  "687": {
+    "dealOld": 24845,
+    "dealNew": "81001",
+    "newsmartID": 807
+  },
+  "685": {
+    "dealOld": 24843,
+    "dealNew": "81002",
+    "newsmartID": 808
+  },
+  "683": {
+    "dealOld": 24841,
+    "dealNew": "81003",
+    "newsmartID": 809
+  },
+  "681": {
+    "dealOld": 24839,
+    "dealNew": "81004",
+    "newsmartID": 810
+  },
+  "679": {
+    "dealOld": 24815,
+    "dealNew": "81014",
+    "newsmartID": 811
+  },
+  "677": {
+    "dealOld": 24813,
+    "dealNew": "81015",
+    "newsmartID": 812
+  },
+  "675": {
+    "dealOld": 24805,
+    "dealNew": "81016",
+    "newsmartID": 813
+  },
+  "673": {
+    "dealOld": 24803,
+    "dealNew": "81017",
+    "newsmartID": 814
+  },
+  "671": {
+    "dealOld": 24801,
+    "dealNew": "81018",
+    "newsmartID": 815
+  },
+  "669": {
+    "dealOld": 24799,
+    "dealNew": "81019",
+    "newsmartID": 816
+  },
+  "667": {
+    "dealOld": 24797,
+    "dealNew": "81020",
+    "newsmartID": 817
+  },
+  "665": {
+    "dealOld": 24795,
+    "dealNew": "81021",
+    "newsmartID": 818
+  },
+  "663": {
+    "dealOld": 24691,
+    "dealNew": "81040",
+    "newsmartID": 819
+  },
+  "661": {
+    "dealOld": 24783,
+    "dealNew": "81026",
+    "newsmartID": 820
+  },
+  "659": {
+    "dealOld": 24719,
+    "dealNew": "81037",
+    "newsmartID": 821
+  },
+  "657": {
+    "dealOld": 24715,
+    "dealNew": "81038",
+    "newsmartID": 822
+  },
+  "655": {
+    "dealOld": 24527,
+    "dealNew": "81094",
+    "newsmartID": 823
+  },
+  "653": {
+    "dealOld": 24647,
+    "dealNew": "81062",
+    "newsmartID": 824
+  },
+  "651": {
+    "dealOld": 24639,
+    "dealNew": "81066",
+    "newsmartID": 825
+  },
+  "649": {
+    "dealOld": 24639,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "647": {
+    "dealOld": 24639,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "645": {
+    "dealOld": 24635,
+    "dealNew": "81068",
+    "newsmartID": 826
+  },
+  "643": {
+    "dealOld": 24637,
+    "dealNew": "81067",
+    "newsmartID": 827
+  },
+  "641": {
+    "dealOld": 24631,
+    "dealNew": "81069",
+    "newsmartID": 828
+  },
+  "639": {
+    "dealOld": 24619,
+    "dealNew": "81075",
+    "newsmartID": 829
+  },
+  "637": {
+    "dealOld": 24599,
+    "dealNew": "81085",
+    "newsmartID": 830
+  },
+  "635": {
+    "dealOld": 24607,
+    "dealNew": "81081",
+    "newsmartID": 831
+  },
+  "633": {
+    "dealOld": 24609,
+    "dealNew": "81080",
+    "newsmartID": 832
+  },
+  "631": {
+    "dealOld": 24611,
+    "dealNew": "81079",
+    "newsmartID": 833
+  },
+  "629": {
+    "dealOld": 24613,
+    "dealNew": "81078",
+    "newsmartID": 834
+  },
+  "627": {
+    "dealOld": 24615,
+    "dealNew": "81077",
+    "newsmartID": 835
+  },
+  "625": {
+    "dealOld": 24617,
+    "dealNew": "81076",
+    "newsmartID": 836
+  },
+  "623": {
+    "dealOld": 24461,
+    "dealNew": "81127",
+    "newsmartID": 837
+  },
+  "621": {
+    "dealOld": 24467,
+    "dealNew": "81124",
+    "newsmartID": 838
+  },
+  "619": {
+    "dealOld": 24469,
+    "dealNew": "81123",
+    "newsmartID": 839
+  },
+  "617": {
+    "dealOld": 24477,
+    "dealNew": "81119",
+    "newsmartID": 840
+  },
+  "615": {
+    "dealOld": 24479,
+    "dealNew": "81118",
+    "newsmartID": 841
+  },
+  "613": {
+    "dealOld": 24485,
+    "dealNew": "81115",
+    "newsmartID": 842
+  },
+  "611": {
+    "dealOld": 24487,
+    "dealNew": "81114",
+    "newsmartID": 843
+  },
+  "609": {
+    "dealOld": 24387,
+    "dealNew": "81157",
+    "newsmartID": 844
+  },
+  "607": {
+    "dealOld": 24403,
+    "dealNew": "81150",
+    "newsmartID": 845
+  },
+  "605": {
+    "dealOld": 24407,
+    "dealNew": "81148",
+    "newsmartID": 846
+  },
+  "603": {
+    "dealOld": 24413,
+    "dealNew": "81145",
+    "newsmartID": 847
+  },
+  "601": {
+    "dealOld": 24421,
+    "dealNew": "81142",
+    "newsmartID": 848
+  },
+  "599": {
+    "dealOld": 24425,
+    "dealNew": "81140",
+    "newsmartID": 849
+  },
+  "597": {
+    "dealOld": 24429,
+    "dealNew": "81138",
+    "newsmartID": 850
+  },
+  "595": {
+    "dealOld": 24437,
+    "dealNew": "81136",
+    "newsmartID": 851
+  },
+  "593": {
+    "dealOld": 24439,
+    "dealNew": "81135",
+    "newsmartID": 852
+  },
+  "591": {
+    "dealOld": 24441,
+    "dealNew": "81134",
+    "newsmartID": 853
+  },
+  "589": {
+    "dealOld": 24451,
+    "dealNew": "81130",
+    "newsmartID": 854
+  },
+  "587": {
+    "dealOld": 24453,
+    "dealNew": "81129",
+    "newsmartID": 855
+  },
+  "585": {
+    "dealOld": 24277,
+    "dealNew": "81204",
+    "newsmartID": 856
+  },
+  "583": {
+    "dealOld": 24291,
+    "dealNew": "81200",
+    "newsmartID": 857
+  },
+  "581": {
+    "dealOld": 24295,
+    "dealNew": "81198",
+    "newsmartID": 858
+  },
+  "579": {
+    "dealOld": 24299,
+    "dealNew": "81196",
+    "newsmartID": 859
+  },
+  "577": {
+    "dealOld": 24303,
+    "dealNew": "81194",
+    "newsmartID": 860
+  },
+  "575": {
+    "dealOld": 24307,
+    "dealNew": "81192",
+    "newsmartID": 861
+  },
+  "573": {
+    "dealOld": 24319,
+    "dealNew": "81186",
+    "newsmartID": 862
+  },
+  "571": {
+    "dealOld": 24353,
+    "dealNew": "81171",
+    "newsmartID": 863
+  },
+  "569": {
+    "dealOld": 24369,
+    "dealNew": "81164",
+    "newsmartID": 864
+  },
+  "567": {
+    "dealOld": 24361,
+    "dealNew": "81168",
+    "newsmartID": 865
+  },
+  "565": {
+    "dealOld": 24245,
+    "dealNew": "81215",
+    "newsmartID": 866
+  },
+  "563": {
+    "dealOld": 24261,
+    "dealNew": "81207",
+    "newsmartID": 867
+  },
+  "561": {
+    "dealOld": 24265,
+    "dealNew": "81206",
+    "newsmartID": 868
+  },
+  "559": {
+    "dealOld": 23959,
+    "dealNew": "81236",
+    "newsmartID": 869
+  },
+  "557": {
+    "dealOld": 23957,
+    "dealNew": "81237",
+    "newsmartID": 870
+  },
+  "555": {
+    "dealOld": 23075,
+    "dealNew": "81510",
+    "newsmartID": 871
+  },
+  "553": {
+    "dealOld": 23067,
+    "dealNew": "81514",
+    "newsmartID": 872
+  },
+  "551": {
+    "dealOld": 23753,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "549": {
+    "dealOld": 23911,
+    "dealNew": "81250",
+    "newsmartID": 873
+  },
+  "547": {
+    "dealOld": 23907,
+    "dealNew": "81252",
+    "newsmartID": 874
+  },
+  "545": {
+    "dealOld": 23901,
+    "dealNew": "81253",
+    "newsmartID": 875
+  },
+  "543": {
+    "dealOld": 23753,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "541": {
+    "dealOld": 23751,
+    "dealNew": "81294",
+    "newsmartID": 876
+  },
+  "539": {
+    "dealOld": 23877,
+    "dealNew": "81259",
+    "newsmartID": 877
+  },
+  "537": {
+    "dealOld": 23879,
+    "dealNew": "81258",
+    "newsmartID": 878
+  },
+  "535": {
+    "dealOld": 23857,
+    "dealNew": "81269",
+    "newsmartID": 879
+  },
+  "533": {
+    "dealOld": 23777,
+    "dealNew": "81289",
+    "newsmartID": 880
+  },
+  "531": {
+    "dealOld": 23775,
+    "dealNew": "81290",
+    "newsmartID": 881
+  },
+  "529": {
+    "dealOld": 23801,
+    "dealNew": "81282",
+    "newsmartID": 882
+  },
+  "527": {
+    "dealOld": 23625,
+    "dealNew": "81325",
+    "newsmartID": 883
+  },
+  "525": {
+    "dealOld": 23623,
+    "dealNew": "81326",
+    "newsmartID": 884
+  },
+  "523": {
+    "dealOld": 23621,
+    "dealNew": "81327",
+    "newsmartID": 885
+  },
+  "521": {
+    "dealOld": 23619,
+    "dealNew": "81328",
+    "newsmartID": 886
+  },
+  "519": {
+    "dealOld": 23627,
+    "dealNew": "81324",
+    "newsmartID": 887
+  },
+  "517": {
+    "dealOld": 23065,
+    "dealNew": "81515",
+    "newsmartID": 888
+  },
+  "515": {
+    "dealOld": 23063,
+    "dealNew": "81516",
+    "newsmartID": 889
+  },
+  "513": {
+    "dealOld": 23651,
+    "dealNew": "81318",
+    "newsmartID": 890
+  },
+  "511": {
+    "dealOld": 23649,
+    "dealNew": "81319",
+    "newsmartID": 891
+  },
+  "509": {
+    "dealOld": 23645,
+    "dealNew": "81320",
+    "newsmartID": 892
+  },
+  "507": {
+    "dealOld": 23629,
+    "dealNew": "81323",
+    "newsmartID": 893
+  },
+  "505": {
+    "dealOld": 23569,
+    "dealNew": "81340",
+    "newsmartID": 894
+  },
+  "503": {
+    "dealOld": 23567,
+    "dealNew": "81341",
+    "newsmartID": 895
+  },
+  "501": {
+    "dealOld": 23565,
+    "dealNew": "81342",
+    "newsmartID": 896
+  },
+  "499": {
+    "dealOld": 23563,
+    "dealNew": "81343",
+    "newsmartID": 897
+  },
+  "497": {
+    "dealOld": 23561,
+    "dealNew": "81344",
+    "newsmartID": 898
+  },
+  "495": {
+    "dealOld": 23061,
+    "dealNew": "81517",
+    "newsmartID": 899
+  },
+  "493": {
+    "dealOld": 23059,
+    "dealNew": "81518",
+    "newsmartID": 900
+  },
+  "491": {
+    "dealOld": 23475,
+    "dealNew": "81368",
+    "newsmartID": 901
+  },
+  "489": {
+    "dealOld": 23469,
+    "dealNew": "81369",
+    "newsmartID": 902
+  },
+  "487": {
+    "dealOld": 23463,
+    "dealNew": "81370",
+    "newsmartID": 903
+  },
+  "485": {
+    "dealOld": 23459,
+    "dealNew": "81371",
+    "newsmartID": 904
+  },
+  "483": {
+    "dealOld": 23447,
+    "dealNew": "81374",
+    "newsmartID": 905
+  },
+  "481": {
+    "dealOld": 23151,
+    "dealNew": "81492",
+    "newsmartID": 906
+  },
+  "479": {
+    "dealOld": 23439,
+    "dealNew": "81375",
+    "newsmartID": 907
+  },
+  "477": {
+    "dealOld": 23437,
+    "dealNew": "81376",
+    "newsmartID": 908
+  },
+  "475": {
+    "dealOld": 23435,
+    "dealNew": "81377",
+    "newsmartID": 909
+  },
+  "473": {
+    "dealOld": 23435,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "471": {
+    "dealOld": 23425,
+    "dealNew": "81380",
+    "newsmartID": 910
+  },
+  "469": {
+    "dealOld": 23411,
+    "dealNew": "81387",
+    "newsmartID": 911
+  },
+  "467": {
+    "dealOld": 23363,
+    "dealNew": "81403",
+    "newsmartID": 912
+  },
+  "465": {
+    "dealOld": 23355,
+    "dealNew": "81407",
+    "newsmartID": 913
+  },
+  "463": {
+    "dealOld": 23357,
+    "dealNew": "81406",
+    "newsmartID": 914
+  },
+  "461": {
+    "dealOld": 23361,
+    "dealNew": "81404",
+    "newsmartID": 915
+  },
+  "459": {
+    "dealOld": 23331,
+    "dealNew": "81411",
+    "newsmartID": 916
+  },
+  "457": {
+    "dealOld": 23325,
+    "dealNew": "81414",
+    "newsmartID": 917
+  },
+  "455": {
+    "dealOld": 23321,
+    "dealNew": "81416",
+    "newsmartID": 918
+  },
+  "453": {
+    "dealOld": 23319,
+    "dealNew": "81417",
+    "newsmartID": 919
+  },
+  "451": {
+    "dealOld": 23311,
+    "dealNew": "81421",
+    "newsmartID": 920
+  },
+  "449": {
+    "dealOld": 23307,
+    "dealNew": "81423",
+    "newsmartID": 921
+  },
+  "447": {
+    "dealOld": 23305,
+    "dealNew": "81424",
+    "newsmartID": 922
+  },
+  "445": {
+    "dealOld": 23301,
+    "dealNew": "81426",
+    "newsmartID": 923
+  },
+  "443": {
+    "dealOld": 23295,
+    "dealNew": "81429",
+    "newsmartID": 924
+  },
+  "441": {
+    "dealOld": 23293,
+    "dealNew": "81430",
+    "newsmartID": 925
+  },
+  "439": {
+    "dealOld": 23287,
+    "dealNew": "81433",
+    "newsmartID": 926
+  },
+  "437": {
+    "dealOld": 23283,
+    "dealNew": "81435",
+    "newsmartID": 927
+  },
+  "435": {
+    "dealOld": 23281,
+    "dealNew": "81436",
+    "newsmartID": 928
+  },
+  "433": {
+    "dealOld": 23279,
+    "dealNew": "81437",
+    "newsmartID": 929
+  },
+  "431": {
+    "dealOld": 23273,
+    "dealNew": "81440",
+    "newsmartID": 930
+  },
+  "429": {
+    "dealOld": 23271,
+    "dealNew": "81441",
+    "newsmartID": 931
+  },
+  "427": {
+    "dealOld": 23269,
+    "dealNew": "81442",
+    "newsmartID": 932
+  },
+  "425": {
+    "dealOld": 23265,
+    "dealNew": "81444",
+    "newsmartID": 933
+  },
+  "423": {
+    "dealOld": 23263,
+    "dealNew": "81445",
+    "newsmartID": 934
+  },
+  "421": {
+    "dealOld": 23261,
+    "dealNew": "81446",
+    "newsmartID": 935
+  },
+  "419": {
+    "dealOld": 23257,
+    "dealNew": "81448",
+    "newsmartID": 936
+  },
+  "417": {
+    "dealOld": 23255,
+    "dealNew": "81449",
+    "newsmartID": 937
+  },
+  "415": {
+    "dealOld": 23253,
+    "dealNew": "81450",
+    "newsmartID": 938
+  },
+  "413": {
+    "dealOld": 23243,
+    "dealNew": "81452",
+    "newsmartID": 939
+  },
+  "411": {
+    "dealOld": 23241,
+    "dealNew": "81453",
+    "newsmartID": 940
+  },
+  "409": {
+    "dealOld": 23239,
+    "dealNew": "81454",
+    "newsmartID": 941
+  },
+  "407": {
+    "dealOld": 23237,
+    "dealNew": "81455",
+    "newsmartID": 942
+  },
+  "405": {
+    "dealOld": 23235,
+    "dealNew": "81456",
+    "newsmartID": 943
+  },
+  "403": {
+    "dealOld": 23233,
+    "dealNew": "81457",
+    "newsmartID": 944
+  },
+  "401": {
+    "dealOld": 23231,
+    "dealNew": "81458",
+    "newsmartID": 945
+  },
+  "399": {
+    "dealOld": 23229,
+    "dealNew": "81459",
+    "newsmartID": 946
+  },
+  "397": {
+    "dealOld": 23225,
+    "dealNew": "81461",
+    "newsmartID": 947
+  },
+  "395": {
+    "dealOld": 23039,
+    "dealNew": "81519",
+    "newsmartID": 948
+  },
+  "393": {
+    "dealOld": 23225,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "391": {
+    "dealOld": 23209,
+    "dealNew": "81464",
+    "newsmartID": 949
+  },
+  "389": {
+    "dealOld": 23199,
+    "dealNew": "81469",
+    "newsmartID": 950
+  },
+  "387": {
+    "dealOld": 23197,
+    "dealNew": "81470",
+    "newsmartID": 951
+  },
+  "385": {
+    "dealOld": 23193,
+    "dealNew": "81472",
+    "newsmartID": 952
+  },
+  "383": {
+    "dealOld": 23191,
+    "dealNew": "81473",
+    "newsmartID": 953
+  },
+  "381": {
+    "dealOld": 23189,
+    "dealNew": "81474",
+    "newsmartID": 954
+  },
+  "379": {
+    "dealOld": 23187,
+    "dealNew": "81475",
+    "newsmartID": 955
+  },
+  "377": {
+    "dealOld": 23185,
+    "dealNew": "81476",
+    "newsmartID": 956
+  },
+  "375": {
+    "dealOld": 23181,
+    "dealNew": "81478",
+    "newsmartID": 957
+  },
+  "373": {
+    "dealOld": 23175,
+    "dealNew": "81481",
+    "newsmartID": 958
+  },
+  "371": {
+    "dealOld": 23157,
+    "dealNew": "81489",
+    "newsmartID": 959
+  },
+  "369": {
+    "dealOld": 23155,
+    "dealNew": "81490",
+    "newsmartID": 960
+  },
+  "367": {
+    "dealOld": 22935,
+    "dealNew": "81551",
+    "newsmartID": 961
+  },
+  "365": {
+    "dealOld": 23037,
+    "dealNew": "81520",
+    "newsmartID": 962
+  },
+  "363": {
+    "dealOld": 22793,
+    "dealNew": "81582",
+    "newsmartID": 963
+  },
+  "361": {
+    "dealOld": 22795,
+    "dealNew": "81581",
+    "newsmartID": 964
+  },
+  "359": {
+    "dealOld": 23013,
+    "dealNew": "81526",
+    "newsmartID": 965
+  },
+  "357": {
+    "dealOld": 23011,
+    "dealNew": "81527",
+    "newsmartID": 966
+  },
+  "355": {
+    "dealOld": 22769,
+    "dealNew": "81586",
+    "newsmartID": 967
+  },
+  "353": {
+    "dealOld": 22949,
+    "dealNew": "81545",
+    "newsmartID": 968
+  },
+  "351": {
+    "dealOld": 22797,
+    "dealNew": "81580",
+    "newsmartID": 969
+  },
+  "349": {
+    "dealOld": 22799,
+    "dealNew": "81579",
+    "newsmartID": 970
+  },
+  "347": {
+    "dealOld": 22889,
+    "dealNew": "81562",
+    "newsmartID": 971
+  },
+  "345": {
+    "dealOld": 22887,
+    "dealNew": "81563",
+    "newsmartID": 972
+  },
+  "343": {
+    "dealOld": 22729,
+    "dealNew": "81605",
+    "newsmartID": 973
+  },
+  "341": {
+    "dealOld": 22587,
+    "dealNew": "81630",
+    "newsmartID": 974
+  },
+  "339": {
+    "dealOld": 22589,
+    "dealNew": "81629",
+    "newsmartID": 975
+  },
+  "337": {
+    "dealOld": 22525,
+    "dealNew": "81645",
+    "newsmartID": 976
+  },
+  "335": {
+    "dealOld": 22523,
+    "dealNew": "81646",
+    "newsmartID": 977
+  },
+  "333": {
+    "dealOld": 22253,
+    "dealNew": "81700",
+    "newsmartID": 978
+  },
+  "331": {
+    "dealOld": 22251,
+    "dealNew": "81701",
+    "newsmartID": 979
+  },
+  "329": {
+    "dealOld": 22251,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "327": {
+    "dealOld": 22303,
+    "dealNew": "81693",
+    "newsmartID": 980
+  },
+  "325": {
+    "dealOld": 21929,
+    "dealNew": "81795",
+    "newsmartID": 981
+  },
+  "323": {
+    "dealOld": 22175,
+    "dealNew": "81724",
+    "newsmartID": 982
+  },
+  "321": {
+    "dealOld": 22173,
+    "dealNew": "81725",
+    "newsmartID": 983
+  },
+  "319": {
+    "dealOld": 22171,
+    "dealNew": "81726",
+    "newsmartID": 984
+  },
+  "317": {
+    "dealOld": 22169,
+    "dealNew": "81727",
+    "newsmartID": 985
+  },
+  "315": {
+    "dealOld": 22167,
+    "dealNew": "81728",
+    "newsmartID": 986
+  },
+  "313": {
+    "dealOld": 22165,
+    "dealNew": "81729",
+    "newsmartID": 987
+  },
+  "311": {
+    "dealOld": 22163,
+    "dealNew": "81730",
+    "newsmartID": 988
+  },
+  "309": {
+    "dealOld": 22157,
+    "dealNew": "81731",
+    "newsmartID": 989
+  },
+  "307": {
+    "dealOld": 22085,
+    "dealNew": "81749",
+    "newsmartID": 990
+  },
+  "305": {
+    "dealOld": 22083,
+    "dealNew": "81750",
+    "newsmartID": 991
+  },
+  "303": {
+    "dealOld": 22081,
+    "dealNew": "81751",
+    "newsmartID": 992
+  },
+  "301": {
+    "dealOld": 22079,
+    "dealNew": "81752",
+    "newsmartID": 993
+  },
+  "299": {
+    "dealOld": 22073,
+    "dealNew": "81754",
+    "newsmartID": 994
+  },
+  "297": {
+    "dealOld": 22057,
+    "dealNew": "81758",
+    "newsmartID": 995
+  },
+  "295": {
+    "dealOld": 22029,
+    "dealNew": "81761",
+    "newsmartID": 996
+  },
+  "293": {
+    "dealOld": 21977,
+    "dealNew": "81782",
+    "newsmartID": 997
+  },
+  "291": {
+    "dealOld": 21973,
+    "dealNew": "81783",
+    "newsmartID": 998
+  },
+  "289": {
+    "dealOld": 21969,
+    "dealNew": "81784",
+    "newsmartID": 999
+  },
+  "287": {
+    "dealOld": 21967,
+    "dealNew": "81785",
+    "newsmartID": 1000
+  },
+  "285": {
+    "dealOld": 21965,
+    "dealNew": "81786",
+    "newsmartID": 1001
+  },
+  "283": {
+    "dealOld": 21931,
+    "dealNew": "81794",
+    "newsmartID": 1002
+  },
+  "281": {
+    "dealOld": 21927,
+    "dealNew": "81796",
+    "newsmartID": 1003
+  },
+  "279": {
+    "dealOld": 21801,
+    "dealNew": "81827",
+    "newsmartID": 1004
+  },
+  "275": {
+    "dealOld": 21891,
+    "dealNew": "81808",
+    "newsmartID": 1005
+  },
+  "273": {
+    "dealOld": 21893,
+    "dealNew": "81807",
+    "newsmartID": 1006
+  },
+  "271": {
+    "dealOld": 21897,
+    "dealNew": "81805",
+    "newsmartID": 1007
+  },
+  "269": {
+    "dealOld": 21899,
+    "dealNew": "81804",
+    "newsmartID": 1008
+  },
+  "267": {
+    "dealOld": 21881,
+    "dealNew": "81812",
+    "newsmartID": 1009
+  },
+  "265": {
+    "dealOld": 21875,
+    "dealNew": "81814",
+    "newsmartID": 1010
+  },
+  "263": {
+    "dealOld": 21867,
+    "dealNew": "81815",
+    "newsmartID": 1011
+  },
+  "261": {
+    "dealOld": 21861,
+    "dealNew": "81817",
+    "newsmartID": 1012
+  },
+  "259": {
+    "dealOld": 21859,
+    "dealNew": "81818",
+    "newsmartID": 1013
+  },
+  "257": {
+    "dealOld": 21857,
+    "dealNew": "81819",
+    "newsmartID": 1014
+  },
+  "255": {
+    "dealOld": 21849,
+    "dealNew": "81823",
+    "newsmartID": 1015
+  },
+  "253": {
+    "dealOld": 21845,
+    "dealNew": "81825",
+    "newsmartID": 1016
+  },
+  "247": {
+    "dealOld": 21763,
+    "dealNew": "81844",
+    "newsmartID": 1017
+  },
+  "245": {
+    "dealOld": 21765,
+    "dealNew": "81843",
+    "newsmartID": 1018
+  },
+  "243": {
+    "dealOld": 21767,
+    "dealNew": "81842",
+    "newsmartID": 1019
+  },
+  "241": {
+    "dealOld": 21769,
+    "dealNew": "81841",
+    "newsmartID": 1020
+  },
+  "239": {
+    "dealOld": 21719,
+    "dealNew": "78007",
+    "newsmartID": 1021
+  },
+  "237": {
+    "dealOld": 21655,
+    "dealNew": "81878",
+    "newsmartID": 1022
+  },
+  "235": {
+    "dealOld": 21657,
+    "dealNew": "81877",
+    "newsmartID": 1023
+  },
+  "233": {
+    "dealOld": 21659,
+    "dealNew": "81876",
+    "newsmartID": 1024
+  },
+  "231": {
+    "dealOld": 21661,
+    "dealNew": "81875",
+    "newsmartID": 1025
+  },
+  "229": {
+    "dealOld": 21663,
+    "dealNew": "81874",
+    "newsmartID": 1026
+  },
+  "227": {
+    "dealOld": 21667,
+    "dealNew": "81872",
+    "newsmartID": 1027
+  },
+  "225": {
+    "dealOld": 21589,
+    "dealNew": "81890",
+    "newsmartID": 1028
+  },
+  "223": {
+    "dealOld": 21591,
+    "dealNew": "81889",
+    "newsmartID": 1029
+  },
+  "221": {
+    "dealOld": 21581,
+    "dealNew": "81894",
+    "newsmartID": 1030
+  },
+  "219": {
+    "dealOld": 21583,
+    "dealNew": "81893",
+    "newsmartID": 1031
+  },
+  "217": {
+    "dealOld": 21585,
+    "dealNew": "81892",
+    "newsmartID": 1032
+  },
+  "215": {
+    "dealOld": 21587,
+    "dealNew": "81891",
+    "newsmartID": 1033
+  },
+  "213": {
+    "dealOld": 21479,
+    "dealNew": "81918",
+    "newsmartID": 1034
+  },
+  "211": {
+    "dealOld": 21473,
+    "dealNew": "81920",
+    "newsmartID": 1035
+  },
+  "209": {
+    "dealOld": 21477,
+    "dealNew": "81919",
+    "newsmartID": 1036
+  },
+  "207": {
+    "dealOld": 21467,
+    "dealNew": "81922",
+    "newsmartID": 1037
+  },
+  "205": {
+    "dealOld": 21471,
+    "dealNew": "81921",
+    "newsmartID": 1038
+  },
+  "203": {
+    "dealOld": 21299,
+    "dealNew": "81974",
+    "newsmartID": 1039
+  },
+  "201": {
+    "dealOld": 21301,
+    "dealNew": "81973",
+    "newsmartID": 1040
+  },
+  "199": {
+    "dealOld": 21303,
+    "dealNew": "81972",
+    "newsmartID": 1041
+  },
+  "197": {
+    "dealOld": 21305,
+    "dealNew": "81971",
+    "newsmartID": 1042
+  },
+  "195": {
+    "dealOld": 21307,
+    "dealNew": "81970",
+    "newsmartID": 1043
+  },
+  "193": {
+    "dealOld": 21309,
+    "dealNew": "81969",
+    "newsmartID": 1044
+  },
+  "191": {
+    "dealOld": 21311,
+    "dealNew": "81968",
+    "newsmartID": 1045
+  },
+  "189": {
+    "dealOld": 21315,
+    "dealNew": "81966",
+    "newsmartID": 1046
+  },
+  "187": {
+    "dealOld": 21281,
+    "dealNew": "81982",
+    "newsmartID": 1047
+  },
+  "185": {
+    "dealOld": 21287,
+    "dealNew": "81980",
+    "newsmartID": 1048
+  },
+  "183": {
+    "dealOld": 21289,
+    "dealNew": "81979",
+    "newsmartID": 1049
+  },
+  "181": {
+    "dealOld": 21291,
+    "dealNew": "81978",
+    "newsmartID": 1050
+  },
+  "179": {
+    "dealOld": 21293,
+    "dealNew": "81977",
+    "newsmartID": 1051
+  },
+  "177": {
+    "dealOld": 21295,
+    "dealNew": "81976",
+    "newsmartID": 1052
+  },
+  "175": {
+    "dealOld": 21297,
+    "dealNew": "81975",
+    "newsmartID": 1053
+  },
+  "173": {
+    "dealOld": 21247,
+    "dealNew": "81992",
+    "newsmartID": 1054
+  },
+  "171": {
+    "dealOld": 21239,
+    "dealNew": "81996",
+    "newsmartID": 1055
+  },
+  "169": {
+    "dealOld": 21251,
+    "dealNew": "81990",
+    "newsmartID": 1056
+  },
+  "167": {
+    "dealOld": 21275,
+    "dealNew": "81985",
+    "newsmartID": 1057
+  },
+  "165": {
+    "dealOld": 21277,
+    "dealNew": "81984",
+    "newsmartID": 1058
+  },
+  "163": {
+    "dealOld": 21279,
+    "dealNew": "81983",
+    "newsmartID": 1059
+  },
+  "161": {
+    "dealOld": 21181,
+    "dealNew": "82007",
+    "newsmartID": 1060
+  },
+  "159": {
+    "dealOld": 21107,
+    "dealNew": "82022",
+    "newsmartID": 1061
+  },
+  "157": {
+    "dealOld": 21105,
+    "dealNew": "82023",
+    "newsmartID": 1062
+  },
+  "155": {
+    "dealOld": 21103,
+    "dealNew": "82024",
+    "newsmartID": 1063
+  },
+  "153": {
+    "dealOld": 21101,
+    "dealNew": "82025",
+    "newsmartID": 1064
+  },
+  "151": {
+    "dealOld": 21099,
+    "dealNew": "82026",
+    "newsmartID": 1065
+  },
+  "147": {
+    "dealOld": 20843,
+    "dealNew": "82058",
+    "newsmartID": 1066
+  },
+  "145": {
+    "dealOld": 20853,
+    "dealNew": "82056",
+    "newsmartID": 1067
+  },
+  "139": {
+    "dealOld": 20653,
+    "dealNew": "82096",
+    "newsmartID": 1068
+  },
+  "137": {
+    "dealOld": 20651,
+    "dealNew": "82097",
+    "newsmartID": 1069
+  },
+  "119": {
+    "dealOld": 20531,
+    "dealNew": "82131",
+    "newsmartID": 1070
+  },
+  "115": {
+    "dealOld": 20579,
+    "dealNew": "82117",
+    "newsmartID": 1071
+  },
+  "107": {
+    "dealOld": 20577,
+    "dealNew": "82118",
+    "newsmartID": 1072
+  },
+  "105": {
+    "dealOld": 20573,
+    "dealNew": "82120",
+    "newsmartID": 1073
+  },
+  "103": {
+    "dealOld": 20571,
+    "dealNew": "82121",
+    "newsmartID": 1074
+  },
+  "101": {
+    "dealOld": 20569,
+    "dealNew": "82122",
+    "newsmartID": 1075
+  },
+  "99": {
+    "dealOld": 20565,
+    "dealNew": "78026",
+    "newsmartID": 1076
+  },
+  "89": {
+    "dealOld": 20513,
+    "dealNew": "82134",
+    "newsmartID": 1077
+  },
+  "87": {
+    "dealOld": 20511,
+    "dealNew": "82135",
+    "newsmartID": 1078
+  },
+  "85": {
+    "dealOld": 20467,
+    "dealNew": "82152",
+    "newsmartID": 1079
+  },
+  "83": {
+    "dealOld": 20463,
+    "dealNew": "82154",
+    "newsmartID": 1080
+  },
+  "81": {
+    "dealOld": 20465,
+    "dealNew": "82153",
+    "newsmartID": 1081
+  },
+  "79": {
+    "dealOld": 20467,
+    "dealNew": "NOT_NEW_DEAL_ID",
+    "newsmartID": "NOT_ATTEMP"
+  },
+  "77": {
+    "dealOld": 20471,
+    "dealNew": "82150",
+    "newsmartID": 1082
+  },
+  "75": {
+    "dealOld": 20459,
+    "dealNew": "82155",
+    "newsmartID": 1083
+  },
+  "67": {
+    "dealOld": 20239,
+    "dealNew": "82160",
+    "newsmartID": 1084
+  },
+  "65": {
+    "dealOld": 19985,
+    "dealNew": "82161",
+    "newsmartID": 1085
+  }
+}
