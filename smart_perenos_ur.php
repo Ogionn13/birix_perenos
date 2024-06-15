@@ -11,27 +11,26 @@ require ROOT. "/classes/InfoFileManager.php";
 require ROOT. "/classes/TranslaterIDs.php";
 require ROOT . "/classes/CsvData.php";
 
-$csvFile = ROOT."/dataoldBitrix/юр.отдел.csv";
-$fileLogPerenos = ROOT . "/process/smarts_add.json";
-
-$logPerenos =new \classes\PerenosLogManager($fileLogPerenos);
-
-
-$handle = fopen($csvFile, "r");
-$headers = fgetcsv($handle, 0, ";");
-
-//const ID_SMART_OLD = 136;
-//const ID_SMART_LOGISTIC_NEW = 163;
+//const ID_SMART_UR_OLD = 180;
+//const ID_SMART_UR_NEW = 134;
 //
 $csvFileLeadNew = ROOT."/dataBitrixCSV/сделки из коробки.csv";
 $csvDataNewLead = new CsvData($csvFileLeadNew, ROOT."/dataBitrixCSV/leadNewHead.json");
 
 $csvFileLeadOld = ROOT."/dataBitrixCSV/сделки из облака 1.csv";
 $csvDataOldLead = new CsvData($csvFileLeadOld, ROOT."/dataBitrixCSV/leadOldHead.json");
-//
-//$csvFileOldSmartLogists = ROOT."/dataBitrixCSV/логисты.csv";
-//$csvDataOldSmartLogists = new CsvData($csvFileOldSmartLogists,ROOT."/dataBitrixCSV/logistHead.json");
-//
+
+$csvFileOldSmartUr = ROOT."/dataBitrixCSV/люр.отдел.csv";
+$csvDataOldSmartUr = new CsvData($csvFileOldSmartUr,ROOT."/dataBitrixCSV/urHead.json");
+
+
+$smartUrIds = $csvDataOldSmartUr->getIdsArr();
+foreach ($smartUrIds as $smartUrId) {
+    $leadIdOld = $csvDataOldLead->findIDByValue($smartUrId, CsvData::INDEX_LEAD_OLD_URID);
+    $leadIdNew = $csvDataNewLead->findIDNewLead($smartUrId, CsvData::INDEX_LEAD_NEW_URID);
+    echo "$smartUrId leadOld  $leadIdOld leadNew $leadIdNew". PHP_EOL;
+}
+
 //$smartLead = new \classes\InfoFileManager(ROOT."/process/OldSmartLead.json");
 //$smartProcess = new \classes\InfoFileManager(ROOT."/process/NEWsmarts.json");
 //

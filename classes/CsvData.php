@@ -7,7 +7,8 @@ class CsvData {
 
     const INDEX_SMART_LG_FILE =5;
     const INDEX_LEAD_NAME_NEW = 11;
-    const INDEX_LEAD_OLD_URID =
+    const INDEX_LEAD_OLD_URID = 54;
+    const INDEX_LEAD_NEW_URID = 44;
     const INDEX_LEAD_ID = 0;
     const INDEX_LEAD_LOGISTIC_ID = 43;
     const INDEX_LEAD_NAME_OLD = 11;
@@ -302,6 +303,17 @@ class CsvData {
         {
             $leadIdRow = $row[self::INDEX_LEAD_ID];
             if (trim($row[self::INDEX_LEAD_LOGISTIC_ID]) == $smartId){
+                return $leadIdRow;
+            }
+        }
+        return 0;
+    }
+    public function findIDByValue(int $smartId, int $indexVal)
+    {
+        foreach ($this->data as $row)
+        {
+            $leadIdRow = $row[self::INDEX_LEAD_ID];
+            if (trim($row[$indexVal]) == $smartId){
                 return $leadIdRow;
             }
         }
