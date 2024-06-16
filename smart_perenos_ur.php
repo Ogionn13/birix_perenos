@@ -20,15 +20,23 @@ $csvDataNewLead = new CsvData($csvFileLeadNew, ROOT."/dataBitrixCSV/leadNewHead.
 $csvFileLeadOld = ROOT."/dataBitrixCSV/сделки из облака 1.csv";
 $csvDataOldLead = new CsvData($csvFileLeadOld, ROOT."/dataBitrixCSV/leadOldHead.json");
 
-$csvFileOldSmartUr = ROOT."/dataBitrixCSV/люр.отдел.csv";
+$csvFileOldSmartUr = ROOT."/dataBitrixCSV/юр.отдел.csv";
 $csvDataOldSmartUr = new CsvData($csvFileOldSmartUr,ROOT."/dataBitrixCSV/urHead.json");
 
 
 $smartUrIds = $csvDataOldSmartUr->getIdsArr();
 foreach ($smartUrIds as $smartUrId) {
-    $leadIdOld = $csvDataOldLead->findIDByValue($smartUrId, CsvData::INDEX_LEAD_OLD_URID);
+    $leadIdOldFrFile = $csvDataOldLead->findIDByValue($smartUrId, CsvData::INDEX_LEAD_OLD_URID);
+    if ($leadIdOldFrFile){
+        continue;
+    }
     $leadIdNew = $csvDataNewLead->findIDNewLead($smartUrId, CsvData::INDEX_LEAD_NEW_URID);
-    echo "$smartUrId leadOld  $leadIdOld leadNew $leadIdNew". PHP_EOL;
+    if ($leadIdNew) {
+        $smartData = BitrixApi::getSmart($smartUrId, 180);
+        $smart =  $smartData['result']['item'];
+        $leadIdOld = $smart['parentId2'];
+    }
+    echo "$smartUrId leadOld  $leadIdOldFrFile leadOldBTX  $leadIdOld leadNew $leadIdNew". PHP_EOL;
 }
 
 //$smartLead = new \classes\InfoFileManager(ROOT."/process/OldSmartLead.json");
