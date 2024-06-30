@@ -6,6 +6,9 @@ class CsvData {
     private array $data;
 
     const INDEX_SMART_LG_FILE =5;
+    const INDEX_SMART_UR_DOGOVOR =6;  //ufCrm7_1691762616
+    const INDEX_SMART_UR_OBRAZEC =7; //ufCrm7_1691762638
+    const INDEX_SMART_UR_POKET =8; //ufCrm7_1693474061
     const INDEX_LEAD_NAME_NEW = 11;
     const INDEX_LEAD_OLD_URID = 54;
     const INDEX_LEAD_NEW_URID = 44;

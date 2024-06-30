@@ -389,6 +389,48 @@ class BitrixApi
             return \CRest_NEW::call(self::ADD_SMART, $queryData);
         }
     }
+    public static function updateSmart(int $id_smart, int $id, $field, $type_crest='old')
+    {
+        $queryData = [
+            "entityTypeId" => $id_smart,
+            "id" => $id,
+            "fields" => $field,
+        ];
+        file_put_contents('dataUpdate2.json', json_encode($queryData));
+        if ($type_crest=='old'){
+            return \CRest_OLD::call('crm.item.update', $queryData);
+        } else {
+            return \CRest_NEW::call('crm.item.update', $queryData);
+        }
+    }
+
+    public static function getProductList($type_crest='old')
+    {
+        $queryData = [
+            'order' => ["NAME" => "ASC" ],
+            'filter' => ["CATALOG_ID" =>14],
+		     'select'=> [ "ID", "NAME", "CURRENCY_ID", "PRICE" ]
+        ];
+
+        if ($type_crest=='old'){
+            return \CRest_OLD::call('crm.product.list', $queryData);
+        } else {
+            return \CRest_NEW::call('crm.product.list', $queryData);
+        }
+    }
+
+    public static function getProduct($type_crest='old')
+    {
+        $queryData = [
+            'id' => 286
+        ];
+
+        if ($type_crest=='old'){
+            return \CRest_OLD::call('crm.product.get', $queryData);
+        } else {
+            return \CRest_NEW::call('crm.product.get', $queryData);
+        }
+    }
 
 
 }

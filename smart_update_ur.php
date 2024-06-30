@@ -15,8 +15,9 @@ require ROOT . "/classes/CsvData.php";
 const ID_SMART_UR_OLD = 180;
 const ID_SMART_UR_NEW = 134;
 //
-$csvFileLeadNew = ROOT . "/dataBitrixCSV/сделки из коробки.csv";
-$csvDataNewLead = new CsvData($csvFileLeadNew, ROOT . "/dataBitrixCSV/leadNewHead.json");
+//$csvFileLeadNew = ROOT . "/dataBitrixCSV/сделки из коробки.csv";
+$csvFileLeadNew = ROOT . "/dataBitrixCSV/DEAL_20240619_df267572_667286c10b85b.csv";
+$csvDataNewLead = new CsvData($csvFileLeadNew, ROOT . "/dataBitrixCSV/leadNewHead2.json");
 
 $csvFileLeadOld = ROOT . "/dataBitrixCSV/сделки из облака 1.csv";
 $csvDataOldLead = new CsvData($csvFileLeadOld, ROOT . "/dataBitrixCSV/leadOldHead.json");
@@ -25,10 +26,137 @@ $csvFileOldSmartUr = ROOT . "/dataBitrixCSV/юр.отдел.csv";
 $csvDataOldSmartUr = new CsvData($csvFileOldSmartUr, ROOT . "/dataBitrixCSV/urHead.json");
 
 $smartProcessUR = new \classes\InfoFileManager(ROOT . "/process/NEWsmartsUr.json");
+$smartProcessUpdteUR = new \classes\InfoFileManager(ROOT . "/process/NEWsmartsUrUpdate2.json");
 $smartUrIds = $csvDataOldSmartUr->getIdsArr();
 
-$translater = new \classes\TranslaterIDs();
+//$translater = new \classes\TranslaterIDs();
 
+$process = $smartProcessUR->getData();
+
+foreach ($process as $oldSmartId=>$resultAdd){
+    if (is_int($resultAdd['newsmartID'])) {
+        continue;
+    }
+    if ($oldSmartId == 133){
+        continue;
+    }
+    $leadIdNew = $csvDataNewLead->findIDByValue($oldSmartId, 42);
+    echo "$oldSmartId  == $leadIdNew \r\n";
+    continue;
+    $newSmartId =$resultAdd['newsmartID'];
+    $rData = [];
+    $r1 = [];
+    $r2 = [];
+    $r3 = [];
+    echo "$oldSmartId  -> {$resultAdd['newsmartID']} \r\n";
+    $leadIdOldFrFile = $csvDataOldLead->findIDByValue($oldSmartId, CsvData::INDEX_LEAD_OLD_URID);
+    $fNameDataDogovor = trim($csvDataOldSmartUr->getValueByIDAndPos($oldSmartId, CsvData::INDEX_SMART_UR_DOGOVOR));
+    if ($fNameDataDogovor) {
+        $fnamesDogovor = explode(", ", $fNameDataDogovor);
+
+        foreach ($fnamesDogovor as $fname) {
+            $fname = trim($fname);
+
+            $parts = parse_url($fname);
+            $filename11 = basename($fname);
+            $filename = basename($parts['path']);
+            $encodedFilename = urlencode($filename);
+            $newUrl = $parts['scheme'] . '://' . $parts['host'] . $parts['path'];
+            $newUrl = str_replace($filename, $encodedFilename, $newUrl);
+            $rData['dogovor'][] = $newUrl;
+            $rData['dogovorN'][] = $filename11;
+//            echo "      " . $fname . "\r\n";
+//            echo "      " . $newUrl . "\r\n";
+            echo "      " . $filename11 . "\r\n";
+
+            $file1 = file_get_contents($newUrl);
+            $base64_f1 = base64_encode($file1);
+            $r1[] = [
+                $filename11,
+                $base64_f1
+            ];
+
+        };
+    }
+    $res1 = "";
+   if (count($r1) >= 1) {
+        $res1 = $r1;
+    }
+    $field['ufCrm7_1691762616'] = $res1;
+
+    $fNameDataObrasec = trim($csvDataOldSmartUr->getValueByIDAndPos($oldSmartId, CsvData::INDEX_SMART_UR_OBRAZEC));
+    if ($fNameDataObrasec) {
+        $fnames2 = explode(", ", $fNameDataObrasec);
+        foreach ($fnames2 as $fname2) {
+            $fname2 = trim($fname2);
+            $parts2 = parse_url($fname2);
+            $filename21 = basename($parts2['path']);
+            $filename22 = basename($fname2);
+            $encodedFilename2 = urlencode($filename21);
+            $newUrl2 = $parts2['scheme'] . '://' . $parts2['host'] . $parts2['path'];
+            $newUrl2 = str_replace($filename21, $encodedFilename2, $newUrl2);
+//            echo "      " . $fname2 . "\r\n";
+//            echo "      " . $newUrl2 . "\r\n";
+            echo "      " . $filename22 . "\r\n";
+            $rData['obr'][] = $newUrl2;
+            $rData['obrN'][] = $filename22;
+            $file2 = file_get_contents($newUrl2);
+            $base64_f2 = base64_encode($file2);
+
+//        $contFiles2 = count($fnames);
+//        $field['ufCrm7_1691762638'] = $res[0];
+            $r2[] = [
+                $filename22,
+                $base64_f2
+            ];
+        }
+    };
+
+        $res2 = "";
+       if (count($r2) >= 1) {
+            $res2 = $r2;
+        }
+        $field['ufCrm7_1691762638'] = $res2;
+    $fNameDataPoket = trim($csvDataOldSmartUr->getValueByIDAndPos($oldSmartId, CsvData::INDEX_SMART_UR_POKET));
+    if ($fNameDataPoket) {
+        $fnames3 = explode(", ", $fNameDataPoket);
+
+        foreach ($fnames3 as $fname3) {
+            $fname3 = trim($fname3);
+            $parts3 = parse_url($fname3);
+            $filename31 = basename($parts3['path']);
+            $filename32 = basename($fname3);
+            $encodedFilename3 = urlencode($filename31);
+            $newUrl3 = $parts3['scheme'] . '://' . $parts3['host'] . $parts3['path'];
+            $newUrl3 = str_replace($filename31, $encodedFilename3, $newUrl3);
+//            echo "      " . $fname3 . "\r\n";
+//            echo "      " . $newUrl3 . "\r\n";
+            echo "      " . $filename32 . "\r\n";
+            $rData['poket'][] = $newUrl3;
+            $rData['poketN'][] = $filename32;
+//            $file = file_get_contents($newUrl);
+//            $base64_f = base64_encode($file);
+            $file3 = file_get_contents($newUrl3);
+            $base64_f3 = base64_encode($file3);
+
+            $r3[] = [
+                $filename32,
+                $base64_f3
+            ];
+        }
+    };
+
+    $res3 = "";
+    if (count($r3) >= 1) {
+        $res3 = $r3;
+    }
+    $field['ufCrm7_1693474061'] = $res3;
+    $smartProcessUpdteUR->updateFileSmartDataLead($oldSmartId, $rData);
+     $d = BitrixApi::updateSmart(ID_SMART_UR_NEW, $newSmartId,  $field, 'new');
+//     var_dump($d);
+}
+
+exit();
 foreach ($smartUrIds as $smartUrId) {
 
     if ($smartUrId == 39 or $smartUrId == 189 or $smartUrId == 387) {
@@ -160,15 +288,15 @@ foreach ($smartUrIds as $smartUrId) {
         $leadIdNew = "NOT_NEW_DEAL_ID";
         $smartNewId = "NOT_ATTEMP";
     }
-    $smartProcessUR->updateFileSmartDataLead($smartUrId, [
-        'dealOld' => $smart['parentId2'] ?? $leadIdOldFrFile ?? "",
-        'dealNew' => $leadIdNew,
-        'newsmartID' => $smartNewId,
-        "contFiles" => ['p1'=>$contFiles1,
-            'p2'=>$contFiles2,
-            'p3'=>$contFiles3
-        ]
-    ]);
+//    $smartProcessUR->updateFileSmartDataLead($smartUrId, [
+//        'dealOld' => $smart['parentId2'] ?? $leadIdOldFrFile ?? "",
+//        'dealNew' => $leadIdNew,
+//        'newsmartID' => $smartNewId,
+//        "contFiles" => ['p1'=>$contFiles1,
+//            'p2'=>$contFiles2,
+//            'p3'=>$contFiles3
+//        ]
+//    ]);
 
 }
 

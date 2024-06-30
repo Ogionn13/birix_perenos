@@ -54,7 +54,25 @@ $bitApi = new BitrixApi();
 
 
 //получение пользователей
+//
+//$lastName = ['Кондратенко', 'Чернобровкина', 'Бакланов', 'Дьяченко', 'Павлова', 'Подрезова', "Павлов", "Снежко", "Евремова"];
+//$lastName2 = ["Павлов", "Снежко", "Евремова"];
+//$ind = 0;
+//foreach ($lastName2 as $name) {
+//    $userData = $bitApi::getUserByLastName($name);
+//    $user2Data = $bitApi::getUserByLastName($name, "new");
+//    $u = $userData['result'];
+//    $u2 = $user2Data['result'];
+//    foreach ($u as $user){
+//        echo "Name = {$user['NAME']}, surname = {$user['LAST_NAME']} ID == {$user['ID']}\r\n";
+//    }
+//
+//    foreach ($u2 as $user){
+//        echo "NEW = Name = {$user['NAME']}, surname = {$user['LAST_NAME']} ID == {$user['ID']}\r\n";
+//    }
+//
+//}
 
-$lastName = ['Кондратенко', 'Чернобровкина', 'Бакланов', 'Дьяченко', 'Павлова', 'Подрезова'];
-$user = $bitApi::getUserByLastName($lastName[5]);
-var_dump($user);
+$user2Data = $bitApi::getProduct();
+file_put_contents('datapr22.json', json_encode($user2Data, JSON_UNESCAPED_UNICODE));
+var_dump($user2Data);
